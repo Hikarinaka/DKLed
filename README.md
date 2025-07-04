@@ -4,3 +4,6 @@ Credits: Hikarinaka, Vet
 
 Project is written using CooCox
 There are some modules derived from several libraries, but heavily refactored with spped and program size optimisation in mind
+
+Bin and hex files are pre-compiled files for stm32F103T8
+Sourcecode zip file is c++ sourcecode
