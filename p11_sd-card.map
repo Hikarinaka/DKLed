@@ -1,0 +1,3165 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                              ..\obj\stdio.o (_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+                              ..\obj\debugTask.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+                              ..\obj\descript_S.o (srand)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+                              ..\obj\newlib_stubs.o (errno)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+                              ..\obj\debugTask.o (strcat)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+                              c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o) (strcpy)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+                              ..\obj\debugTask.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o) (__malloc_current_mallinfo)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o) (_sbrk_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+SaveRState          0x2               ..\obj\usb_int.o
+I2C_rx_buf          0xa               ..\obj\I2C_c.o
+read_size           0x4               ..\obj\debugTask.o
+CRC_sum             0x4               ..\obj\stm32f10x_crc.o
+USART_counter_pointer
+                    0x4               ..\obj\debugTask.o
+path                0x22              ..\obj\debugTask.o
+I_b16               0x4               ..\obj\inputsTask.o
+HSEStartUpStatus    0x1               ..\obj\hw_config.o
+buttonInterrupt_tmp
+                    0x1               ..\obj\debugTask.o
+USART1_rx_buf_counter
+                    0x2               ..\obj\dbgu.o
+dbgu_rx_buff        0x100             ..\obj\dbgu.o
+j                   0x1               ..\obj\dbgu.o
+File_Suspend_start  0x8               ..\obj\main.o
+USART_Buf_pointer   0x4               ..\obj\debugTask.o
+buttonPushInterrupt
+                    0x2               ..\obj\main.o
+buttonInterrupt     0x4               ..\obj\debugTask.o
+SaveState           0x2               ..\obj\usb_init.o
+dbgu_rx_buf_counter
+                    0x2               ..\obj\dbgu.o
+errno               0x4               c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+filinfo             0x18              ..\obj\debugTask.o
+CommandArgForButton
+                    0x41              ..\obj\main.o
+descrResult         0x1               ..\obj\debugTask.o
+ButtonEncorerIndiv  0x4               ..\obj\main.o
+USB_Feature         0x1               ..\obj\USB_c.o
+buttonRelInterrupt  0x2               ..\obj\main.o
+text_buff           0x204             ..\obj\main.o
+Related_Endpoint    0x1               ..\obj\USB_c.o
+dbgu_rx_buf_overcount
+                    0x1               ..\obj\debugTask.o
+a8                  0x1               ..\obj\debugTask.o
+DS_WS_line_mask     0x1               ..\obj\descript_S.o
+TempEP              0x2               ..\obj\USB_c.o
+USART_ptr_State_of_recieved_Command
+                    0x4               ..\obj\debugTask.o
+SD_Volume_Exists    0x1               ..\obj\debugTask.o
+wIstr               0x2               ..\obj\usb_istr.o
+k                   0x1               ..\obj\dbgu.o
+pProperty           0x4               ..\obj\usb_init.o
+i32                 0x4               ..\obj\USB_c.o
+USB_COM_TX_Buff1    0x40              ..\obj\USB_c.o
+dbgu_rx_temp_start  0x2               ..\obj\debugTask.o
+osTime              0x8               ..\obj\main.o
+EPindex             0x1               ..\obj\usb_init.o
+USART1_rx_buf_start
+                    0x2               ..\obj\dbgu.o
+USART_ptr_rx_start_time
+                    0x4               ..\obj\debugTask.o
+I2C_eventListener   0x4               ..\obj\I2C_c.o
+fname               0xd               ..\obj\debugTask.o
+Reserved            0x1               ..\obj\USB_c.o
+FileworksDirpath    0x18              ..\obj\debugTask.o
+DS_Status_backup    0x1               ..\obj\descript_S.o
+Prev_File_Num       0x2               ..\obj\debugTask.o
+Servo_Pos_Mask      0x14              ..\obj\main.o
+buttonsNewState     0x2               ..\obj\main.o
+USART1_rx_start_time
+                    0x8               ..\obj\dbgu.o
+need_pause          0x4               ..\obj\main.o
+DebugInfoOutFlag    0x1               ..\obj\main.o
+USB_Buff1           0x40              ..\obj\USB_c.o
+DS_Channel_Select   0x1               ..\obj\main.o
+SaveTState          0x2               ..\obj\usb_int.o
+i                   0x4               ..\obj\dbgu.o
+I2C_ResetTime       0x4               ..\obj\I2C_c.o
+Parent_File_Num     0x2               ..\obj\debugTask.o
+Servo_Pos           0x12              ..\obj\main.o
+Device_Info         0x1c              ..\obj\usb_init.o
+DS_Repeater_set     0x1               ..\obj\descript_S.o
+temp_tx_head        0x1               ..\obj\dbgu.o
+pUser_Standard_Requests
+                    0x4               ..\obj\usb_init.o
+USART1_rx_buff      0x100             ..\obj\dbgu.o
+Parent_Prev_File_Num
+                    0x2               ..\obj\debugTask.o
+Servo_Pos_Temp      0x10              ..\obj\main.o
+Dirpath             0x18              ..\obj\debugTask.o
+USB_Rx_Buffer       0x40              ..\obj\usb_endp.o
+Personal_ID         0x4               ..\obj\main.o
+USART_Rx_Buffer     0x800             ..\obj\hw_config.o
+StatusInfo          0x2               ..\obj\usb_core.o
+pInformation        0x4               ..\obj\usb_init.o
+ResumeS             0x2               ..\obj\usb_pwr.o
+USART1_State_of_recieved_Command
+                    0x1               ..\obj\dbgu.o
+dbgu_State_of_recieved_Command
+                    0x1               ..\obj\dbgu.o
+USB_Interface       0x1               ..\obj\USB_c.o
+dbgu_rx_start_time  0x8               ..\obj\dbgu.o
+dir                 0x1c              ..\obj\debugTask.o
+USB_rx_timeout      0x4               ..\obj\USB_c.o
+USB_wLength         0x2               ..\obj\USB_c.o
+USART_InitStructure
+                    0x10              ..\obj\hw_config.o
+dbgu_rx_timeout     0x4               ..\obj\dbgu.o
+DS_buf_counter      0x2               ..\obj\main.o
+USB_Configuration   0x1               ..\obj\USB_c.o
+Next_File_Num       0x2               ..\obj\debugTask.o
+i2c8                0x1               ..\obj\I2C_c.o
+USB_wValue          0x2               ..\obj\USB_c.o
+i2c16               0x2               ..\obj\I2C_c.o
+WS2812_IO_framedata_Start_address
+                    0x4               ..\obj\init_ws.o
+Servo_step          0x1               ..\obj\main.o
+icc                 0x1               ..\obj\I2C_c.o
+USART1_rx_timeout   0x4               ..\obj\dbgu.o
+I2C_tx_buff         0x82              ..\obj\I2C_c.o
+a16                 0x2               ..\obj\debugTask.o
+FastCommandForButton
+                    0x41              ..\obj\main.o
+numFileForButton    0x82              ..\obj\main.o
+Current_File_Num    0x2               ..\obj\debugTask.o
+dbgu_rx_buf_start   0x2               ..\obj\dbgu.o
+path2               0x22              ..\obj\debugTask.o
+Descript_answer     0x4               ..\obj\descript_S.o
+USB_wIndex          0x2               ..\obj\USB_c.o
+I2C_TargetAddress   0x1               ..\obj\I2C_c.o
+File_Open_Flags     0x1               ..\obj\debugTask.o
+DS_Pause_interrupt_Flag
+                    0x2               ..\obj\main.o
+dbgu_rx_temp_counter
+                    0x2               ..\obj\debugTask.o
+wInterrupt_Mask     0x2               ..\obj\usb_init.o
+WS2812_IO_framedata
+                    0x3600            ..\obj\main.o
+DS_Repeat_Count     0x1               ..\obj\descript_S.o
+ic                  0x2               ..\obj\I2C_c.o
+Servo_time          0x4               ..\obj\main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\otgd_fs_pcd.o
+ .data          0x00000000        0x0 ..\obj\otgd_fs_pcd.o
+ .bss           0x00000000        0x0 ..\obj\otgd_fs_pcd.o
+ .debug_line    0x00000000        0x0 ..\obj\otgd_fs_pcd.o
+ .debug_str     0x00000000       0xe1 ..\obj\otgd_fs_pcd.o
+ .comment       0x00000000       0x6f ..\obj\otgd_fs_pcd.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\otgd_fs_pcd.o
+ .text          0x00000000        0x0 ..\obj\usb_core.o
+ .data          0x00000000        0x0 ..\obj\usb_core.o
+ .bss           0x00000000        0x1 ..\obj\usb_core.o
+ .text.Standard_GetConfiguration
+                0x00000000       0x3c ..\obj\usb_core.o
+ .text.Standard_SetConfiguration
+                0x00000000       0x50 ..\obj\usb_core.o
+ .text.Standard_GetInterface
+                0x00000000       0x3c ..\obj\usb_core.o
+ .text.Standard_SetInterface
+                0x00000000       0x88 ..\obj\usb_core.o
+ .text.Standard_GetStatus
+                0x00000000      0x138 ..\obj\usb_core.o
+ .text.Standard_ClearFeature
+                0x00000000      0x1d8 ..\obj\usb_core.o
+ .text.Standard_SetEndPointFeature
+                0x00000000      0x114 ..\obj\usb_core.o
+ .text.Standard_SetDeviceFeature
+                0x00000000       0x2c ..\obj\usb_core.o
+ .text.Standard_GetDescriptorData
+                0x00000000       0x48 ..\obj\usb_core.o
+ .text.DataStageOut
+                0x00000000      0x104 ..\obj\usb_core.o
+ .text.DataStageIn
+                0x00000000      0x10c ..\obj\usb_core.o
+ .text.NoData_Setup0
+                0x00000000      0x194 ..\obj\usb_core.o
+ .text.Data_Setup0
+                0x00000000      0x32c ..\obj\usb_core.o
+ .text.Setup0_Process
+                0x00000000       0xd8 ..\obj\usb_core.o
+ .text.In0_Process
+                0x00000000       0x90 ..\obj\usb_core.o
+ .text.Out0_Process
+                0x00000000       0x74 ..\obj\usb_core.o
+ .text.Post0_Process
+                0x00000000       0x50 ..\obj\usb_core.o
+ .text.SetDeviceAddress
+                0x00000000       0x7c ..\obj\usb_core.o
+ .text.NOP_Process
+                0x00000000        0xc ..\obj\usb_core.o
+ .debug_info    0x00000000      0xbc7 ..\obj\usb_core.o
+ .debug_abbrev  0x00000000      0x2a7 ..\obj\usb_core.o
+ .debug_aranges
+                0x00000000       0xb0 ..\obj\usb_core.o
+ .debug_ranges  0x00000000       0xa0 ..\obj\usb_core.o
+ .debug_line    0x00000000      0x5c4 ..\obj\usb_core.o
+ .debug_str     0x00000000      0xae2 ..\obj\usb_core.o
+ .comment       0x00000000       0x6f ..\obj\usb_core.o
+ .debug_frame   0x00000000      0x2b8 ..\obj\usb_core.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_core.o
+ COMMON         0x00000000        0x2 ..\obj\usb_core.o
+ .text          0x00000000        0x0 ..\obj\dbgu.o
+ .text.DBGU_Recieve_finish
+                0x00000000       0x98 ..\obj\dbgu.o
+ .text.assert_failed
+                0x00000000       0x14 ..\obj\dbgu.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x22c ..\obj\stm32f10x_tim.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0xf8 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000      0x118 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000      0x110 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x00000000      0x10c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0xd0 ..\obj\stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000       0xa8 ..\obj\stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xb8 ..\obj\stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x4e ..\obj\stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x32 ..\obj\stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x42 ..\obj\stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x30 ..\obj\stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_Cmd  0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x4a ..\obj\stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000       0x28 ..\obj\stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x46 ..\obj\stm32f10x_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x22 ..\obj\stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x2e ..\obj\stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x5c ..\obj\stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x5e ..\obj\stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x52 ..\obj\stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000       0x26 ..\obj\stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x96 ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x54 ..\obj\stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x54 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0xac ..\obj\stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x3e ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x00000000       0x1e ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x3a ..\obj\stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000       0x18 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000       0x18 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000       0x18 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000       0x1a ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000       0x18 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000       0x18 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000       0x36 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x52 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000       0x20 ..\obj\stm32f10x_tim.o
+ .text.TI1_Config
+                0x00000000       0xe0 ..\obj\stm32f10x_tim.o
+ .text.TI2_Config
+                0x00000000       0xf4 ..\obj\stm32f10x_tim.o
+ .text.TI3_Config
+                0x00000000       0xec ..\obj\stm32f10x_tim.o
+ .text.TI4_Config
+                0x00000000       0xf8 ..\obj\stm32f10x_tim.o
+ .text          0x00000000        0x0 ..\obj\kernelHeap.o
+ .data          0x00000000        0x0 ..\obj\kernelHeap.o
+ .bss           0x00000000       0xd4 ..\obj\kernelHeap.o
+ .text.CoCreateKheap
+                0x00000000       0x44 ..\obj\kernelHeap.o
+ .text.CoKmalloc
+                0x00000000      0x164 ..\obj\kernelHeap.o
+ .text.CoKfree  0x00000000      0x214 ..\obj\kernelHeap.o
+ .text.GetPreFMB
+                0x00000000       0x30 ..\obj\kernelHeap.o
+ .debug_info    0x00000000      0x727 ..\obj\kernelHeap.o
+ .debug_abbrev  0x00000000      0x189 ..\obj\kernelHeap.o
+ .debug_aranges
+                0x00000000       0x38 ..\obj\kernelHeap.o
+ .debug_ranges  0x00000000       0x28 ..\obj\kernelHeap.o
+ .debug_line    0x00000000      0x21d ..\obj\kernelHeap.o
+ .debug_str     0x00000000      0x4ef ..\obj\kernelHeap.o
+ .comment       0x00000000       0x6f ..\obj\kernelHeap.o
+ .debug_frame   0x00000000       0xa4 ..\obj\kernelHeap.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\kernelHeap.o
+ .text          0x00000000        0x0 ..\obj\core.o
+ .data          0x00000000        0x0 ..\obj\core.o
+ .text.CoEnterISR
+                0x00000000       0x14 ..\obj\core.o
+ .text.CoExitISR
+                0x00000000       0x50 ..\obj\core.o
+ .text.OsSchedUnlock
+                0x00000000       0x50 ..\obj\core.o
+ .text.CoSchedLock
+                0x00000000       0x20 ..\obj\core.o
+ .text.CoSchedUnlock
+                0x00000000        0xc ..\obj\core.o
+ .text.CoInitOS
+                0x00000000       0x80 ..\obj\core.o
+ .text.CoStartOS
+                0x00000000       0x38 ..\obj\core.o
+ .text.CoGetOSVersion
+                0x00000000       0x10 ..\obj\core.o
+ .text          0x00000000        0x0 ..\obj\descript_S.o
+ .data          0x00000000        0x0 ..\obj\descript_S.o
+ .text.print_DEC_4
+                0x00000000       0xf4 ..\obj\descript_S.o
+ .text.Error_Message_Command
+                0x00000000       0xfc ..\obj\descript_S.o
+ .text.Error_Meaasge_Param
+                0x00000000       0xa4 ..\obj\descript_S.o
+ .text.DS_strtohex
+                0x00000000       0x66 ..\obj\descript_S.o
+ .text.DS_dec_add_symbol
+                0x00000000       0x2c ..\obj\descript_S.o
+ .text          0x00000000        0x0 ..\obj\timer.o
+ .data          0x00000000        0x0 ..\obj\timer.o
+ .bss           0x00000000       0x38 ..\obj\timer.o
+ .text.InsertTmrList
+                0x00000000      0x1dc ..\obj\timer.o
+ .text.RemoveTmrList
+                0x00000000       0xd4 ..\obj\timer.o
+ .text.CoCreateTmr
+                0x00000000      0x118 ..\obj\timer.o
+ .text.CoStartTmr
+                0x00000000       0x50 ..\obj\timer.o
+ .text.CoStopTmr
+                0x00000000       0x50 ..\obj\timer.o
+ .text.CoDelTmr
+                0x00000000       0x50 ..\obj\timer.o
+ .text.CoGetCurTmrCnt
+                0x00000000       0x34 ..\obj\timer.o
+ .text.CoSetTmrCnt
+                0x00000000       0x6c ..\obj\timer.o
+ .text.TmrDispose
+                0x00000000       0x78 ..\obj\timer.o
+ .text.isr_TmrDispose
+                0x00000000       0x30 ..\obj\timer.o
+ .debug_info    0x00000000      0x74d ..\obj\timer.o
+ .debug_abbrev  0x00000000      0x1f1 ..\obj\timer.o
+ .debug_aranges
+                0x00000000       0x68 ..\obj\timer.o
+ .debug_ranges  0x00000000       0x58 ..\obj\timer.o
+ .debug_line    0x00000000      0x269 ..\obj\timer.o
+ .debug_str     0x00000000      0x49c ..\obj\timer.o
+ .comment       0x00000000       0x6f ..\obj\timer.o
+ .debug_frame   0x00000000      0x178 ..\obj\timer.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\timer.o
+ .text          0x00000000        0x0 ..\obj\utility.o
+ .data          0x00000000        0x0 ..\obj\utility.o
+ .bss           0x00000000        0x0 ..\obj\utility.o
+ .text.CoTickToTime
+                0x00000000       0xa0 ..\obj\utility.o
+ .text.CoTimeToTick
+                0x00000000       0x74 ..\obj\utility.o
+ .debug_info    0x00000000      0x5c3 ..\obj\utility.o
+ .debug_abbrev  0x00000000      0x137 ..\obj\utility.o
+ .debug_aranges
+                0x00000000       0x28 ..\obj\utility.o
+ .debug_ranges  0x00000000       0x18 ..\obj\utility.o
+ .debug_line    0x00000000      0x148 ..\obj\utility.o
+ .debug_str     0x00000000      0x438 ..\obj\utility.o
+ .comment       0x00000000       0x6f ..\obj\utility.o
+ .debug_frame   0x00000000       0x60 ..\obj\utility.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\utility.o
+ .text          0x00000000        0x0 ..\obj\usb_int.o
+ .data          0x00000000        0x0 ..\obj\usb_int.o
+ .bss           0x00000000        0x0 ..\obj\usb_int.o
+ .text.CTR_LP   0x00000000      0x300 ..\obj\usb_int.o
+ .text.CTR_HP   0x00000000       0xf0 ..\obj\usb_int.o
+ .text          0x00000000        0x0 ..\obj\system_stm32f10x.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f10x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd8 ..\obj\system_stm32f10x.o
+ .text.SetSysClock
+                0x00000000        0xc ..\obj\system_stm32f10x.o
+ .text          0x00000000        0x0 ..\obj\exceptions.o
+ .data          0x00000000        0x0 ..\obj\exceptions.o
+ .bss           0x00000000        0x0 ..\obj\exceptions.o
+ .text.hard_fault_ini
+                0x00000000       0x28 ..\obj\exceptions.o
+ .text          0x00000000        0x0 ..\obj\newlib_stubs.o
+ .data          0x00000000        0x4 ..\obj\newlib_stubs.o
+ .bss           0x00000000        0x8 ..\obj\newlib_stubs.o
+ .text._exit    0x00000000        0xa ..\obj\newlib_stubs.o
+ .text._close   0x00000000       0x16 ..\obj\newlib_stubs.o
+ .text._execve  0x00000000       0x24 ..\obj\newlib_stubs.o
+ .text._fork    0x00000000       0x1c ..\obj\newlib_stubs.o
+ .text._fstat   0x00000000       0x1e ..\obj\newlib_stubs.o
+ .text._getpid  0x00000000        0xe ..\obj\newlib_stubs.o
+ .text._isatty  0x00000000       0x2c ..\obj\newlib_stubs.o
+ .text._kill    0x00000000       0x24 ..\obj\newlib_stubs.o
+ .text._link    0x00000000       0x24 ..\obj\newlib_stubs.o
+ .text._lseek   0x00000000       0x18 ..\obj\newlib_stubs.o
+ .rodata        0x00000000       0x1a ..\obj\newlib_stubs.o
+ .text._sbrk    0x00000000       0x70 ..\obj\newlib_stubs.o
+ .text._read    0x00000000       0x74 ..\obj\newlib_stubs.o
+ .text._stat    0x00000000       0x1e ..\obj\newlib_stubs.o
+ .text._times   0x00000000       0x16 ..\obj\newlib_stubs.o
+ .text._unlink  0x00000000       0x20 ..\obj\newlib_stubs.o
+ .text._wait    0x00000000       0x20 ..\obj\newlib_stubs.o
+ .text._write   0x00000000       0x7c ..\obj\newlib_stubs.o
+ .debug_info    0x00000000     0x10b7 ..\obj\newlib_stubs.o
+ .debug_abbrev  0x00000000      0x2da ..\obj\newlib_stubs.o
+ .debug_aranges
+                0x00000000       0xa0 ..\obj\newlib_stubs.o
+ .debug_ranges  0x00000000       0x90 ..\obj\newlib_stubs.o
+ .debug_line    0x00000000      0x4c5 ..\obj\newlib_stubs.o
+ .debug_str     0x00000000      0x89c ..\obj\newlib_stubs.o
+ .comment       0x00000000       0x6f ..\obj\newlib_stubs.o
+ .debug_frame   0x00000000      0x294 ..\obj\newlib_stubs.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\newlib_stubs.o
+ .text          0x00000000        0x0 ..\obj\usb_desc.o
+ .data          0x00000000       0x1a ..\obj\usb_desc.o
+ .bss           0x00000000        0x0 ..\obj\usb_desc.o
+ .rodata        0x00000000       0xb6 ..\obj\usb_desc.o
+ .debug_info    0x00000000      0x5a2 ..\obj\usb_desc.o
+ .debug_abbrev  0x00000000      0x119 ..\obj\usb_desc.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\usb_desc.o
+ .debug_line    0x00000000      0x266 ..\obj\usb_desc.o
+ .debug_str     0x00000000      0x673 ..\obj\usb_desc.o
+ .comment       0x00000000       0x6f ..\obj\usb_desc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_desc.o
+ .text          0x00000000        0x0 ..\obj\usb_regs.o
+ .data          0x00000000        0x0 ..\obj\usb_regs.o
+ .bss           0x00000000        0x0 ..\obj\usb_regs.o
+ .text.SetCNTR  0x00000000       0x20 ..\obj\usb_regs.o
+ .text.GetCNTR  0x00000000       0x18 ..\obj\usb_regs.o
+ .text.SetISTR  0x00000000       0x20 ..\obj\usb_regs.o
+ .text.GetISTR  0x00000000       0x18 ..\obj\usb_regs.o
+ .text.GetFNR   0x00000000       0x18 ..\obj\usb_regs.o
+ .text.SetDADDR
+                0x00000000       0x20 ..\obj\usb_regs.o
+ .text.GetDADDR
+                0x00000000       0x18 ..\obj\usb_regs.o
+ .text.SetBTABLE
+                0x00000000       0x24 ..\obj\usb_regs.o
+ .text.GetBTABLE
+                0x00000000       0x18 ..\obj\usb_regs.o
+ .text.SetENDPOINT
+                0x00000000       0x2a ..\obj\usb_regs.o
+ .text.GetENDPOINT
+                0x00000000       0x24 ..\obj\usb_regs.o
+ .text.SetEPType
+                0x00000000       0x4c ..\obj\usb_regs.o
+ .text.GetEPType
+                0x00000000       0x2a ..\obj\usb_regs.o
+ .text.SetEPTxStatus
+                0x00000000       0x70 ..\obj\usb_regs.o
+ .text.SetEPRxStatus
+                0x00000000       0x70 ..\obj\usb_regs.o
+ .text.SetDouBleBuffEPStall
+                0x00000000       0x5a ..\obj\usb_regs.o
+ .text.GetEPTxStatus
+                0x00000000       0x2a ..\obj\usb_regs.o
+ .text.GetEPRxStatus
+                0x00000000       0x2a ..\obj\usb_regs.o
+ .text.SetEPTxValid
+                0x00000000       0x54 ..\obj\usb_regs.o
+ .text.SetEPRxValid
+                0x00000000       0x54 ..\obj\usb_regs.o
+ .text.SetEP_KIND
+                0x00000000       0x50 ..\obj\usb_regs.o
+ .text.ClearEP_KIND
+                0x00000000       0x48 ..\obj\usb_regs.o
+ .text.Clear_Status_Out
+                0x00000000       0x48 ..\obj\usb_regs.o
+ .text.Set_Status_Out
+                0x00000000       0x50 ..\obj\usb_regs.o
+ .text.SetEPDoubleBuff
+                0x00000000       0x50 ..\obj\usb_regs.o
+ .text.ClearEPDoubleBuff
+                0x00000000       0x48 ..\obj\usb_regs.o
+ .text.GetTxStallStatus
+                0x00000000       0x34 ..\obj\usb_regs.o
+ .text.GetRxStallStatus
+                0x00000000       0x36 ..\obj\usb_regs.o
+ .text.ClearEP_CTR_RX
+                0x00000000       0x3a ..\obj\usb_regs.o
+ .text.ClearEP_CTR_TX
+                0x00000000       0x3a ..\obj\usb_regs.o
+ .text.ToggleDTOG_RX
+                0x00000000       0x42 ..\obj\usb_regs.o
+ .text.ToggleDTOG_TX
+                0x00000000       0x42 ..\obj\usb_regs.o
+ .text.ClearDTOG_RX
+                0x00000000       0x5a ..\obj\usb_regs.o
+ .text.ClearDTOG_TX
+                0x00000000       0x5a ..\obj\usb_regs.o
+ .text.SetEPAddress
+                0x00000000       0x4c ..\obj\usb_regs.o
+ .text.GetEPAddress
+                0x00000000       0x2a ..\obj\usb_regs.o
+ .text.SetEPTxAddr
+                0x00000000       0x44 ..\obj\usb_regs.o
+ .text.SetEPRxAddr
+                0x00000000       0x44 ..\obj\usb_regs.o
+ .text.GetEPTxAddr
+                0x00000000       0x34 ..\obj\usb_regs.o
+ .text.GetEPRxAddr
+                0x00000000       0x34 ..\obj\usb_regs.o
+ .text.SetEPTxCount
+                0x00000000       0x3c ..\obj\usb_regs.o
+ .text.SetEPCountRxReg
+                0x00000000       0x62 ..\obj\usb_regs.o
+ .text.SetEPRxCount
+                0x00000000       0x84 ..\obj\usb_regs.o
+ .text.GetEPTxCount
+                0x00000000       0x3c ..\obj\usb_regs.o
+ .text.GetEPRxCount
+                0x00000000       0x3c ..\obj\usb_regs.o
+ .text.SetEPDblBuffAddr
+                0x00000000       0x68 ..\obj\usb_regs.o
+ .text.SetEPDblBuf0Addr
+                0x00000000       0x44 ..\obj\usb_regs.o
+ .text.SetEPDblBuf1Addr
+                0x00000000       0x44 ..\obj\usb_regs.o
+ .text.GetEPDblBuf0Addr
+                0x00000000       0x34 ..\obj\usb_regs.o
+ .text.GetEPDblBuf1Addr
+                0x00000000       0x34 ..\obj\usb_regs.o
+ .text.SetEPDblBuffCount
+                0x00000000      0x13c ..\obj\usb_regs.o
+ .text.SetEPDblBuf0Count
+                0x00000000       0xb0 ..\obj\usb_regs.o
+ .text.SetEPDblBuf1Count
+                0x00000000       0xb0 ..\obj\usb_regs.o
+ .text.GetEPDblBuf0Count
+                0x00000000       0x3c ..\obj\usb_regs.o
+ .text.GetEPDblBuf1Count
+                0x00000000       0x3c ..\obj\usb_regs.o
+ .text.GetEPDblBufDir
+                0x00000000       0x6c ..\obj\usb_regs.o
+ .text.FreeUserBuffer
+                0x00000000       0x84 ..\obj\usb_regs.o
+ .text.ToWord   0x00000000       0x2c ..\obj\usb_regs.o
+ .text.ByteSwap
+                0x00000000       0x2e ..\obj\usb_regs.o
+ .debug_info    0x00000000     0x1045 ..\obj\usb_regs.o
+ .debug_abbrev  0x00000000      0x215 ..\obj\usb_regs.o
+ .debug_aranges
+                0x00000000      0x1f0 ..\obj\usb_regs.o
+ .debug_ranges  0x00000000      0x2b8 ..\obj\usb_regs.o
+ .debug_line    0x00000000      0x838 ..\obj\usb_regs.o
+ .debug_str     0x00000000      0x9b0 ..\obj\usb_regs.o
+ .comment       0x00000000       0x6f ..\obj\usb_regs.o
+ .debug_frame   0x00000000      0x91c ..\obj\usb_regs.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_regs.o
+ .text          0x00000000        0x0 ..\obj\init_ws.o
+ .data          0x00000000        0x0 ..\obj\init_ws.o
+ .bss           0x00000000        0x0 ..\obj\init_ws.o
+ .text.WS2812_Timer_init
+                0x00000000      0x184 ..\obj\init_ws.o
+ .text.WS2812_ResetStartPixelInBuffer
+                0x00000000       0x1c ..\obj\init_ws.o
+ .text.WS2812_framedata_setPixel
+                0x00000000      0x150 ..\obj\init_ws.o
+ .text.WS2812_framedata_setRow
+                0x00000000       0x50 ..\obj\init_ws.o
+ .text.WS2812_framedata_setColumn
+                0x00000000       0x4c ..\obj\init_ws.o
+ .text          0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .text          0x00000000        0x0 ..\obj\task.o
+ .data          0x00000000        0x0 ..\obj\task.o
+ .text.CreateTCBList
+                0x00000000       0x68 ..\obj\task.o
+ .text.InsertToTCBRdyList
+                0x00000000      0x100 ..\obj\task.o
+ .text.RemoveFromTCBRdyList
+                0x00000000       0x88 ..\obj\task.o
+ .text.CoSetPriority
+                0x00000000       0xf0 ..\obj\task.o
+ .text.Schedule
+                0x00000000      0x118 ..\obj\task.o
+ .text.AssignTCB
+                0x00000000       0x4c ..\obj\task.o
+ .text.CreateTask
+                0x00000000       0xc0 ..\obj\task.o
+ .text.CoDelTask
+                0x00000000       0xc8 ..\obj\task.o
+ .text.CoExitTask
+                0x00000000       0x18 ..\obj\task.o
+ .text.CoGetCurTaskID
+                0x00000000       0x18 ..\obj\task.o
+ .text.CoSuspendTask
+                0x00000000       0x88 ..\obj\task.o
+ .text.CoAwakeTask
+                0x00000000       0x80 ..\obj\task.o
+ .text          0x00000000        0x0 ..\obj\hw_config.o
+ .data          0x00000000        0x0 ..\obj\hw_config.o
+ .bss           0x00000000        0xd ..\obj\hw_config.o
+ .text.Set_System
+                0x00000000       0x54 ..\obj\hw_config.o
+ .text.Set_USBClock
+                0x00000000       0x18 ..\obj\hw_config.o
+ .text.Enter_LowPowerMode
+                0x00000000       0x18 ..\obj\hw_config.o
+ .text.Leave_LowPowerMode
+                0x00000000       0x34 ..\obj\hw_config.o
+ .text.USB_Interrupts_Config
+                0x00000000       0x2e ..\obj\hw_config.o
+ .text.USB_Cable_Config
+                0x00000000       0x34 ..\obj\hw_config.o
+ .text.Handle_USBAsynchXfer
+                0x00000000       0xdc ..\obj\hw_config.o
+ .text.USB_Send_Data
+                0x00000000       0x40 ..\obj\hw_config.o
+ .text.Get_SerialNum
+                0x00000000       0x58 ..\obj\hw_config.o
+ .text.IntToUnicode
+                0x00000000       0x5c ..\obj\hw_config.o
+ .text.USB_SetLeds
+                0x00000000      0x16c ..\obj\hw_config.o
+ .debug_info    0x00000000      0xb7c ..\obj\hw_config.o
+ .debug_abbrev  0x00000000      0x2ae ..\obj\hw_config.o
+ .debug_aranges
+                0x00000000       0x70 ..\obj\hw_config.o
+ .debug_ranges  0x00000000       0x60 ..\obj\hw_config.o
+ .debug_line    0x00000000      0x43a ..\obj\hw_config.o
+ .debug_str     0x00000000      0xdb5 ..\obj\hw_config.o
+ .comment       0x00000000       0x6f ..\obj\hw_config.o
+ .debug_frame   0x00000000      0x19c ..\obj\hw_config.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\hw_config.o
+ COMMON         0x00000000      0x814 ..\obj\hw_config.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xe4 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_Init
+                0x00000000      0x178 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x26 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0x32 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x18 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x32 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x18 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0x2e ..\obj\stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x42 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x4c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000       0x20 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0xe0 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x84 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .debug_info    0x00000000      0x6fd ..\obj\stm32f10x_gpio.o
+ .debug_abbrev  0x00000000      0x1db ..\obj\stm32f10x_gpio.o
+ .debug_aranges
+                0x00000000       0xa8 ..\obj\stm32f10x_gpio.o
+ .debug_ranges  0x00000000       0x98 ..\obj\stm32f10x_gpio.o
+ .debug_line    0x00000000      0x436 ..\obj\stm32f10x_gpio.o
+ .debug_str     0x00000000      0x544 ..\obj\stm32f10x_gpio.o
+ .comment       0x00000000       0x6f ..\obj\stm32f10x_gpio.o
+ .debug_frame   0x00000000      0x2d0 ..\obj\stm32f10x_gpio.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_gpio.o
+ .text          0x00000000        0x0 ..\obj\inputsTask.o
+ .data          0x00000000        0x0 ..\obj\inputsTask.o
+ .text          0x00000000        0x0 ..\obj\usb_prop.o
+ .data          0x00000000       0x90 ..\obj\usb_prop.o
+ .bss           0x00000000        0x1 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_init
+                0x00000000       0x2c ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_Reset
+                0x00000000       0xf4 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_SetConfiguration
+                0x00000000       0x2c ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_SetDeviceAddress
+                0x00000000       0x18 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_Status_In
+                0x00000000       0x20 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_Status_Out
+                0x00000000        0xc ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_Data_Setup
+                0x00000000       0x80 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_NoData_Setup
+                0x00000000       0x3c ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_GetDeviceDescriptor
+                0x00000000       0x24 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_GetConfigDescriptor
+                0x00000000       0x24 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_GetStringDescriptor
+                0x00000000       0x40 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_Get_Interface_Setting
+                0x00000000       0x30 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_GetLineCoding
+                0x00000000       0x30 ..\obj\usb_prop.o
+ .text.Virtual_Com_Port_SetLineCoding
+                0x00000000       0x30 ..\obj\usb_prop.o
+ .debug_info    0x00000000      0x8f1 ..\obj\usb_prop.o
+ .debug_abbrev  0x00000000      0x224 ..\obj\usb_prop.o
+ .debug_aranges
+                0x00000000       0x88 ..\obj\usb_prop.o
+ .debug_ranges  0x00000000       0x78 ..\obj\usb_prop.o
+ .debug_line    0x00000000      0x3d6 ..\obj\usb_prop.o
+ .debug_str     0x00000000      0x9ee ..\obj\usb_prop.o
+ .comment       0x00000000       0x6f ..\obj\usb_prop.o
+ .debug_frame   0x00000000      0x200 ..\obj\usb_prop.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_prop.o
+ .text          0x00000000        0x0 ..\obj\serviceReq.o
+ .data          0x00000000        0x0 ..\obj\serviceReq.o
+ .bss           0x00000000       0x2f ..\obj\serviceReq.o
+ .text.InsertInSRQ
+                0x00000000       0x8c ..\obj\serviceReq.o
+ .text.RespondSRQ
+                0x00000000       0xe4 ..\obj\serviceReq.o
+ .debug_info    0x00000000      0x5ae ..\obj\serviceReq.o
+ .debug_abbrev  0x00000000      0x151 ..\obj\serviceReq.o
+ .debug_aranges
+                0x00000000       0x28 ..\obj\serviceReq.o
+ .debug_ranges  0x00000000       0x18 ..\obj\serviceReq.o
+ .debug_line    0x00000000      0x16c ..\obj\serviceReq.o
+ .debug_str     0x00000000      0x41a ..\obj\serviceReq.o
+ .comment       0x00000000       0x6f ..\obj\serviceReq.o
+ .debug_frame   0x00000000       0x58 ..\obj\serviceReq.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\serviceReq.o
+ .text          0x00000000        0x0 ..\obj\usb_pwr.o
+ .data          0x00000000        0x1 ..\obj\usb_pwr.o
+ .bss           0x00000000        0x4 ..\obj\usb_pwr.o
+ .text.PowerOn  0x00000000       0x50 ..\obj\usb_pwr.o
+ .text.PowerOff
+                0x00000000       0x2c ..\obj\usb_pwr.o
+ .text.Suspend  0x00000000       0x40 ..\obj\usb_pwr.o
+ .text.Resume_Init
+                0x00000000       0x34 ..\obj\usb_pwr.o
+ .text.Resume   0x00000000       0xfc ..\obj\usb_pwr.o
+ .debug_info    0x00000000      0x684 ..\obj\usb_pwr.o
+ .debug_abbrev  0x00000000      0x1ac ..\obj\usb_pwr.o
+ .debug_aranges
+                0x00000000       0x40 ..\obj\usb_pwr.o
+ .debug_ranges  0x00000000       0x30 ..\obj\usb_pwr.o
+ .debug_line    0x00000000      0x315 ..\obj\usb_pwr.o
+ .debug_str     0x00000000      0x71d ..\obj\usb_pwr.o
+ .comment       0x00000000       0x6f ..\obj\usb_pwr.o
+ .debug_frame   0x00000000       0xbc ..\obj\usb_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_pwr.o
+ COMMON         0x00000000        0x2 ..\obj\usb_pwr.o
+ .text          0x00000000        0x0 ..\obj\usb_init.o
+ .data          0x00000000        0x0 ..\obj\usb_init.o
+ .bss           0x00000000        0x0 ..\obj\usb_init.o
+ .text.USB_Init
+                0x00000000       0x44 ..\obj\usb_init.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\usb-main.o
+ .data          0x00000000        0x0 ..\obj\usb-main.o
+ .bss           0x00000000        0x0 ..\obj\usb-main.o
+ .debug_line    0x00000000        0x0 ..\obj\usb-main.o
+ .debug_str     0x00000000       0xc3 ..\obj\usb-main.o
+ .comment       0x00000000       0x6f ..\obj\usb-main.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb-main.o
+ .text          0x00000000        0x0 ..\obj\otgd_fs_dev.o
+ .data          0x00000000        0x0 ..\obj\otgd_fs_dev.o
+ .bss           0x00000000        0x0 ..\obj\otgd_fs_dev.o
+ .debug_line    0x00000000        0x0 ..\obj\otgd_fs_dev.o
+ .debug_str     0x00000000       0xe1 ..\obj\otgd_fs_dev.o
+ .comment       0x00000000       0x6f ..\obj\otgd_fs_dev.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\otgd_fs_dev.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000       0x18 ..\obj\stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000       0x20 ..\obj\stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x44 ..\obj\stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000       0x14 ..\obj\stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000       0x20 ..\obj\stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000       0x18 ..\obj\stm32f10x_crc.o
+ .text          0x00000000        0x0 ..\obj\debugTask.o
+ .data          0x00000000        0x0 ..\obj\debugTask.o
+ .text.FileBufferEnding
+                0x00000000       0x54 ..\obj\debugTask.o
+ .text.Check_If_MainLoop_Is_AFK
+                0x00000000       0x44 ..\obj\debugTask.o
+ .text          0x00000000        0x0 ..\obj\I2C_c.o
+ .text.I2C_Check
+                0x00000000       0x50 ..\obj\I2C_c.o
+ .text.Check_If_I2C_Is_AFK
+                0x00000000       0x58 ..\obj\I2C_c.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_rcc.o
+ .data          0x00000000       0x14 ..\obj\stm32f10x_rcc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x5c ..\obj\stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x5c ..\obj\stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 ..\obj\stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x1c ..\obj\stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x4c ..\obj\stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000       0x1c ..\obj\stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x40 ..\obj\stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x24 ..\obj\stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000      0x160 ..\obj\stm32f10x_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x74 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x34 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text          0x00000000        0x0 ..\obj\mbox.o
+ .data          0x00000000        0x0 ..\obj\mbox.o
+ .bss           0x00000000        0x0 ..\obj\mbox.o
+ .debug_info    0x00000000      0x4d4 ..\obj\mbox.o
+ .debug_abbrev  0x00000000       0xd0 ..\obj\mbox.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\mbox.o
+ .debug_line    0x00000000      0x10d ..\obj\mbox.o
+ .debug_str     0x00000000      0x3ec ..\obj\mbox.o
+ .comment       0x00000000       0x6f ..\obj\mbox.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\mbox.o
+ .text          0x00000000        0x0 ..\obj\mm.o
+ .data          0x00000000        0x0 ..\obj\mm.o
+ .bss           0x00000000        0x0 ..\obj\mm.o
+ .debug_info    0x00000000      0x4d4 ..\obj\mm.o
+ .debug_abbrev  0x00000000       0xd0 ..\obj\mm.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\mm.o
+ .debug_line    0x00000000      0x10d ..\obj\mm.o
+ .debug_str     0x00000000      0x3ea ..\obj\mm.o
+ .comment       0x00000000       0x6f ..\obj\mm.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\mm.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x34 ..\obj\stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0xe4 ..\obj\stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x2a ..\obj\stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x24 ..\obj\stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x34 ..\obj\stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x48 ..\obj\stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000       0x1c ..\obj\stm32f10x_exti.o
+ .debug_info    0x00000000      0x35c ..\obj\stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x166 ..\obj\stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x58 ..\obj\stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x48 ..\obj\stm32f10x_exti.o
+ .debug_line    0x00000000      0x30c ..\obj\stm32f10x_exti.o
+ .debug_str     0x00000000      0x374 ..\obj\stm32f10x_exti.o
+ .comment       0x00000000       0x6f ..\obj\stm32f10x_exti.o
+ .debug_frame   0x00000000      0x148 ..\obj\stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_exti.o
+ .text          0x00000000        0x0 ..\obj\ff_addons.o
+ .data          0x00000000        0x0 ..\obj\ff_addons.o
+ .bss           0x00000000        0x0 ..\obj\ff_addons.o
+ .text.ff_timer_init
+                0x00000000       0x38 ..\obj\ff_addons.o
+ .text          0x00000000        0x0 ..\obj\outputTask.o
+ .bss           0x00000000        0x0 ..\obj\outputTask.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0xb8 ..\obj\stm32f10x_usart.o
+ .text.USART_Init
+                0x00000000      0x174 ..\obj\stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x38 ..\obj\stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x56 ..\obj\stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000       0x2a ..\obj\stm32f10x_usart.o
+ .text.USART_Cmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x8e ..\obj\stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x46 ..\obj\stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x38 ..\obj\stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x36 ..\obj\stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x36 ..\obj\stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_SendData
+                0x00000000       0x22 ..\obj\stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000       0x1e ..\obj\stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000       0x22 ..\obj\stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x3a ..\obj\stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x38 ..\obj\stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x42 ..\obj\stm32f10x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x36 ..\obj\stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x3e ..\obj\stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000       0x36 ..\obj\stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0xb4 ..\obj\stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x38 ..\obj\stm32f10x_usart.o
+ .debug_info    0x00000000      0x9f5 ..\obj\stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x1a7 ..\obj\stm32f10x_usart.o
+ .debug_aranges
+                0x00000000      0x100 ..\obj\stm32f10x_usart.o
+ .debug_ranges  0x00000000       0xf0 ..\obj\stm32f10x_usart.o
+ .debug_line    0x00000000      0x518 ..\obj\stm32f10x_usart.o
+ .debug_str     0x00000000      0x6bb ..\obj\stm32f10x_usart.o
+ .comment       0x00000000       0x6f ..\obj\stm32f10x_usart.o
+ .debug_frame   0x00000000      0x490 ..\obj\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_usart.o
+ .text          0x00000000        0x0 ..\obj\stdio.o
+ .data          0x00000000        0x0 ..\obj\stdio.o
+ .bss           0x00000000        0x0 ..\obj\stdio.o
+ .text.PutChar  0x00000000       0x1e ..\obj\stdio.o
+ .text.PutString
+                0x00000000       0x3a ..\obj\stdio.o
+ .text.PutUnsignedInt
+                0x00000000       0x9c ..\obj\stdio.o
+ .text.PutSignedInt
+                0x00000000       0xf8 ..\obj\stdio.o
+ .text.PutHexa  0x00000000       0xd4 ..\obj\stdio.o
+ .text.PutBina  0x00000000       0x8a ..\obj\stdio.o
+ .text.vsnprintf
+                0x00000000      0x26c ..\obj\stdio.o
+ .text.snprintf
+                0x00000000       0x30 ..\obj\stdio.o
+ .text.vsprintf
+                0x00000000       0x22 ..\obj\stdio.o
+ .rodata        0x00000000       0x24 ..\obj\stdio.o
+ .text.vfprintf
+                0x00000000       0x68 ..\obj\stdio.o
+ .text.vprintf  0x00000000       0x28 ..\obj\stdio.o
+ .text.fprintf  0x00000000       0x2c ..\obj\stdio.o
+ .text.printf   0x00000000       0x28 ..\obj\stdio.o
+ .text.sprintf  0x00000000       0x2c ..\obj\stdio.o
+ .text.puts     0x00000000       0x38 ..\obj\stdio.o
+ .text.fputc    0x00000000       0x44 ..\obj\stdio.o
+ .text.fputs    0x00000000       0x48 ..\obj\stdio.o
+ .text.putchar  0x00000000       0x24 ..\obj\stdio.o
+ .debug_info    0x00000000      0xeba ..\obj\stdio.o
+ .debug_abbrev  0x00000000      0x276 ..\obj\stdio.o
+ .debug_aranges
+                0x00000000       0xa8 ..\obj\stdio.o
+ .debug_ranges  0x00000000       0x98 ..\obj\stdio.o
+ .debug_line    0x00000000      0x3ab ..\obj\stdio.o
+ .debug_str     0x00000000      0x6b2 ..\obj\stdio.o
+ .comment       0x00000000       0x6f ..\obj\stdio.o
+ .debug_frame   0x00000000      0x2fc ..\obj\stdio.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stdio.o
+ .text          0x00000000        0x0 ..\obj\otgd_fs_int.o
+ .data          0x00000000        0x0 ..\obj\otgd_fs_int.o
+ .bss           0x00000000        0x0 ..\obj\otgd_fs_int.o
+ .debug_line    0x00000000        0x0 ..\obj\otgd_fs_int.o
+ .debug_str     0x00000000       0xe1 ..\obj\otgd_fs_int.o
+ .comment       0x00000000       0x6f ..\obj\otgd_fs_int.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\otgd_fs_int.o
+ .text          0x00000000        0x0 ..\obj\usb_sil.o
+ .data          0x00000000        0x0 ..\obj\usb_sil.o
+ .bss           0x00000000        0x0 ..\obj\usb_sil.o
+ .text.USB_SIL_Init
+                0x00000000       0x30 ..\obj\usb_sil.o
+ .text.USB_SIL_Write
+                0x00000000       0x4a ..\obj\usb_sil.o
+ .text.USB_SIL_Read
+                0x00000000       0x4a ..\obj\usb_sil.o
+ .debug_info    0x00000000      0x539 ..\obj\usb_sil.o
+ .debug_abbrev  0x00000000      0x14b ..\obj\usb_sil.o
+ .debug_aranges
+                0x00000000       0x30 ..\obj\usb_sil.o
+ .debug_ranges  0x00000000       0x20 ..\obj\usb_sil.o
+ .debug_line    0x00000000      0x2b5 ..\obj\usb_sil.o
+ .debug_str     0x00000000      0x626 ..\obj\usb_sil.o
+ .comment       0x00000000       0x6f ..\obj\usb_sil.o
+ .debug_frame   0x00000000       0x78 ..\obj\usb_sil.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_sil.o
+ .text          0x00000000        0x0 ..\obj\time.o
+ .data          0x00000000        0x0 ..\obj\time.o
+ .bss           0x00000000        0x4 ..\obj\time.o
+ .text.InsertDelayList
+                0x00000000       0xf0 ..\obj\time.o
+ .text.RemoveDelayList
+                0x00000000       0xb4 ..\obj\time.o
+ .text.CoGetOSTime
+                0x00000000       0x18 ..\obj\time.o
+ .text.CoTickDelay
+                0x00000000       0x70 ..\obj\time.o
+ .text.CoResetTaskDelayTick
+                0x00000000       0x6c ..\obj\time.o
+ .text.CoTimeDelay
+                0x00000000       0x84 ..\obj\time.o
+ .text.TimeDispose
+                0x00000000       0x78 ..\obj\time.o
+ .text.isr_TimeDispose
+                0x00000000       0x30 ..\obj\time.o
+ .debug_info    0x00000000      0x68c ..\obj\time.o
+ .debug_abbrev  0x00000000      0x1e2 ..\obj\time.o
+ .debug_aranges
+                0x00000000       0x58 ..\obj\time.o
+ .debug_ranges  0x00000000       0x48 ..\obj\time.o
+ .debug_line    0x00000000      0x223 ..\obj\time.o
+ .debug_str     0x00000000      0x4a6 ..\obj\time.o
+ .comment       0x00000000       0x6f ..\obj\time.o
+ .debug_frame   0x00000000      0x134 ..\obj\time.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\time.o
+ .text          0x00000000        0x0 ..\obj\event.o
+ .data          0x00000000        0x0 ..\obj\event.o
+ .bss           0x00000000       0xa4 ..\obj\event.o
+ .text.CreateEventList
+                0x00000000       0x78 ..\obj\event.o
+ .text.ReleaseECB
+                0x00000000       0x44 ..\obj\event.o
+ .text.CreatEvent
+                0x00000000       0x84 ..\obj\event.o
+ .text.DeleteEvent
+                0x00000000       0x8c ..\obj\event.o
+ .text.EventTaskToWait
+                0x00000000      0x100 ..\obj\event.o
+ .text.EventTaskToRdy
+                0x00000000       0xb0 ..\obj\event.o
+ .text.RemoveEventWaittingList
+                0x00000000       0x98 ..\obj\event.o
+ .debug_info    0x00000000      0x73c ..\obj\event.o
+ .debug_abbrev  0x00000000      0x1e6 ..\obj\event.o
+ .debug_aranges
+                0x00000000       0x50 ..\obj\event.o
+ .debug_ranges  0x00000000       0x40 ..\obj\event.o
+ .debug_line    0x00000000      0x243 ..\obj\event.o
+ .debug_str     0x00000000      0x4c3 ..\obj\event.o
+ .comment       0x00000000       0x6f ..\obj\event.o
+ .debug_frame   0x00000000      0x114 ..\obj\event.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\event.o
+ .text          0x00000000        0x0 ..\obj\timings.o
+ .data          0x00000000        0x0 ..\obj\timings.o
+ .text          0x00000000        0x0 ..\obj\otgd_fs_cal.o
+ .data          0x00000000        0x0 ..\obj\otgd_fs_cal.o
+ .bss           0x00000000        0x0 ..\obj\otgd_fs_cal.o
+ .debug_line    0x00000000        0x0 ..\obj\otgd_fs_cal.o
+ .debug_str     0x00000000       0xe1 ..\obj\otgd_fs_cal.o
+ .comment       0x00000000       0x6f ..\obj\otgd_fs_cal.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\otgd_fs_cal.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x38 ..\obj\stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x30 ..\obj\stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x30 ..\obj\stm32f10x_flash.o
+ .text.FLASH_Unlock
+                0x00000000       0x24 ..\obj\stm32f10x_flash.o
+ .text.FLASH_UnlockBank1
+                0x00000000       0x24 ..\obj\stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x1c ..\obj\stm32f10x_flash.o
+ .text.FLASH_LockBank1
+                0x00000000       0x1c ..\obj\stm32f10x_flash.o
+ .text.FLASH_ErasePage
+                0x00000000       0x64 ..\obj\stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x5c ..\obj\stm32f10x_flash.o
+ .text.FLASH_EraseAllBank1Pages
+                0x00000000       0x5c ..\obj\stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0xd4 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x94 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x5c ..\obj\stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x78 ..\obj\stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000      0x118 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0xd4 ..\obj\stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x94 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000       0x18 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000       0x14 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x30 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x30 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x3c ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x50 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetStatus
+                0x00000000       0x54 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetBank1Status
+                0x00000000       0x54 ..\obj\stm32f10x_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x44 ..\obj\stm32f10x_flash.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x00000000       0x44 ..\obj\stm32f10x_flash.o
+ .debug_info    0x00000000      0x7c4 ..\obj\stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x19e ..\obj\stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0xf8 ..\obj\stm32f10x_flash.o
+ .debug_ranges  0x00000000       0xe8 ..\obj\stm32f10x_flash.o
+ .debug_line    0x00000000      0x532 ..\obj\stm32f10x_flash.o
+ .debug_str     0x00000000      0x613 ..\obj\stm32f10x_flash.o
+ .comment       0x00000000       0x6f ..\obj\stm32f10x_flash.o
+ .debug_frame   0x00000000      0x410 ..\obj\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_flash.o
+ .text          0x00000000        0x0 ..\obj\USB_c.o
+ .data          0x00000000        0x0 ..\obj\USB_c.o
+ .text.Check_If_USB_Is_AFK
+                0x00000000       0x74 ..\obj\USB_c.o
+ .text.USB_CTR_RX
+                0x00000000      0x668 ..\obj\USB_c.o
+ .text          0x00000000        0x0 ..\obj\queue.o
+ .data          0x00000000        0x0 ..\obj\queue.o
+ .bss           0x00000000       0x24 ..\obj\queue.o
+ .text.CoCreateQueue
+                0x00000000       0xec ..\obj\queue.o
+ .text.CoDelQueue
+                0x00000000       0x80 ..\obj\queue.o
+ .text.CoAcceptQueueMail
+                0x00000000       0x98 ..\obj\queue.o
+ .text.CoPendQueueMail
+                0x00000000      0x1ac ..\obj\queue.o
+ .text.CoPostQueueMail
+                0x00000000       0x90 ..\obj\queue.o
+ .text.isr_PostQueueMail
+                0x00000000       0x48 ..\obj\queue.o
+ .debug_info    0x00000000      0x7c7 ..\obj\queue.o
+ .debug_abbrev  0x00000000      0x1a0 ..\obj\queue.o
+ .debug_aranges
+                0x00000000       0x48 ..\obj\queue.o
+ .debug_ranges  0x00000000       0x38 ..\obj\queue.o
+ .debug_line    0x00000000      0x214 ..\obj\queue.o
+ .debug_str     0x00000000      0x4c5 ..\obj\queue.o
+ .comment       0x00000000       0x6f ..\obj\queue.o
+ .debug_frame   0x00000000       0xe8 ..\obj\queue.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\queue.o
+ .text          0x00000000        0x0 ..\obj\port.o
+ .data          0x00000000        0xc ..\obj\port.o
+ .bss           0x00000000        0x0 ..\obj\port.o
+ .text.Inc8     0x00000000       0x2e ..\obj\port.o
+ .text.Dec8     0x00000000       0x2a ..\obj\port.o
+ .text.IRQ_ENABLE_RESTORE
+                0x00000000        0xe ..\obj\port.o
+ .text.IRQ_DISABLE_SAVE
+                0x00000000        0xe ..\obj\port.o
+ .text.SetEnvironment
+                0x00000000        0xc ..\obj\port.o
+ .text.SwitchContext
+                0x00000000       0x18 ..\obj\port.o
+ .text          0x00000000        0x0 ..\obj\mutex.o
+ .data          0x00000000        0x0 ..\obj\mutex.o
+ .bss           0x00000000        0x0 ..\obj\mutex.o
+ .debug_info    0x00000000      0x4d4 ..\obj\mutex.o
+ .debug_abbrev  0x00000000       0xd0 ..\obj\mutex.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\mutex.o
+ .debug_line    0x00000000      0x10d ..\obj\mutex.o
+ .debug_str     0x00000000      0x3ed ..\obj\mutex.o
+ .comment       0x00000000       0x6f ..\obj\mutex.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\mutex.o
+ .text          0x00000000        0x0 ..\obj\flag.o
+ .data          0x00000000        0x0 ..\obj\flag.o
+ .bss           0x00000000       0x14 ..\obj\flag.o
+ .text.CoCreateFlag
+                0x00000000       0x98 ..\obj\flag.o
+ .text.CoDelFlag
+                0x00000000      0x104 ..\obj\flag.o
+ .text.CoAcceptSingleFlag
+                0x00000000       0x64 ..\obj\flag.o
+ .text.CoAcceptMultipleFlags
+                0x00000000       0xa4 ..\obj\flag.o
+ .text.CoWaitForSingleFlag
+                0x00000000      0x154 ..\obj\flag.o
+ .text.CoWaitForMultipleFlags
+                0x00000000      0x1a4 ..\obj\flag.o
+ .text.CoClearFlag
+                0x00000000       0x34 ..\obj\flag.o
+ .text.CoSetFlag
+                0x00000000       0xd8 ..\obj\flag.o
+ .text.isr_SetFlag
+                0x00000000       0x44 ..\obj\flag.o
+ .text.FlagBlock
+                0x00000000       0x78 ..\obj\flag.o
+ .text.RemoveFromLink
+                0x00000000       0x54 ..\obj\flag.o
+ .text.RemoveLinkNode
+                0x00000000       0x84 ..\obj\flag.o
+ .debug_info    0x00000000      0x897 ..\obj\flag.o
+ .debug_abbrev  0x00000000      0x204 ..\obj\flag.o
+ .debug_aranges
+                0x00000000       0x78 ..\obj\flag.o
+ .debug_ranges  0x00000000       0x68 ..\obj\flag.o
+ .debug_line    0x00000000      0x2f8 ..\obj\flag.o
+ .debug_str     0x00000000      0x517 ..\obj\flag.o
+ .comment       0x00000000       0x6f ..\obj\flag.o
+ .debug_frame   0x00000000      0x1cc ..\obj\flag.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\flag.o
+ .text          0x00000000        0x0 ..\obj\usb_endp.o
+ .data          0x00000000        0x0 ..\obj\usb_endp.o
+ .bss           0x00000000        0x4 ..\obj\usb_endp.o
+ .text.EP1_IN_Callback
+                0x00000000        0xc ..\obj\usb_endp.o
+ .text.EP3_OUT_Callback
+                0x00000000       0x24 ..\obj\usb_endp.o
+ .text.SOF_Callback
+                0x00000000       0x30 ..\obj\usb_endp.o
+ .debug_info    0x00000000      0x65b ..\obj\usb_endp.o
+ .debug_abbrev  0x00000000      0x17e ..\obj\usb_endp.o
+ .debug_aranges
+                0x00000000       0x30 ..\obj\usb_endp.o
+ .debug_ranges  0x00000000       0x20 ..\obj\usb_endp.o
+ .debug_line    0x00000000      0x2bb ..\obj\usb_endp.o
+ .debug_str     0x00000000      0x73c ..\obj\usb_endp.o
+ .comment       0x00000000       0x6f ..\obj\usb_endp.o
+ .debug_frame   0x00000000       0x6c ..\obj\usb_endp.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_endp.o
+ COMMON         0x00000000       0x40 ..\obj\usb_endp.o
+ .text          0x00000000        0x0 ..\obj\ff.o
+ .data          0x00000000        0x0 ..\obj\ff.o
+ .text.f_stat   0x00000000       0x6e ..\obj\ff.o
+ .text.f_getfree
+                0x00000000      0x158 ..\obj\ff.o
+ .text.f_truncate
+                0x00000000      0x10c ..\obj\ff.o
+ .text.f_chmod  0x00000000       0xaa ..\obj\ff.o
+ .text.f_utime  0x00000000       0x8e ..\obj\ff.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .text.DMA_DeInit
+                0x00000000      0x178 ..\obj\stm32f10x_dma.o
+ .text.DMA_Init
+                0x00000000       0x7c ..\obj\stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x54 ..\obj\stm32f10x_dma.o
+ .text.DMA_Cmd  0x00000000       0x38 ..\obj\stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x3a ..\obj\stm32f10x_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000       0x1c ..\obj\stm32f10x_dma.o
+ .text.DMA_SetCurrDataStart
+                0x00000000       0x1a ..\obj\stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000       0x18 ..\obj\stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x50 ..\obj\stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x34 ..\obj\stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x50 ..\obj\stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x34 ..\obj\stm32f10x_dma.o
+ .debug_info    0x00000000      0x4b7 ..\obj\stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x180 ..\obj\stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x78 ..\obj\stm32f10x_dma.o
+ .debug_ranges  0x00000000       0x68 ..\obj\stm32f10x_dma.o
+ .debug_line    0x00000000      0x3b0 ..\obj\stm32f10x_dma.o
+ .debug_str     0x00000000      0x3f7 ..\obj\stm32f10x_dma.o
+ .comment       0x00000000       0x6f ..\obj\stm32f10x_dma.o
+ .debug_frame   0x00000000      0x1f0 ..\obj\stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dma.o
+ .text          0x00000000        0x0 ..\obj\arch.o
+ .data          0x00000000        0x0 ..\obj\arch.o
+ .bss           0x00000000        0x8 ..\obj\arch.o
+ .text.InitTaskContext
+                0x00000000       0x4c ..\obj\arch.o
+ .text.CoSysTick_Handler
+                0x00000000       0xb8 ..\obj\arch.o
+ .debug_info    0x00000000      0x564 ..\obj\arch.o
+ .debug_abbrev  0x00000000      0x141 ..\obj\arch.o
+ .debug_aranges
+                0x00000000       0x28 ..\obj\arch.o
+ .debug_ranges  0x00000000       0x18 ..\obj\arch.o
+ .debug_line    0x00000000      0x151 ..\obj\arch.o
+ .debug_str     0x00000000      0x430 ..\obj\arch.o
+ .comment       0x00000000       0x6f ..\obj\arch.o
+ .debug_frame   0x00000000       0x58 ..\obj\arch.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\arch.o
+ .text          0x00000000        0x0 ..\obj\misc.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 ..\obj\misc.o
+ .text.NVIC_Init
+                0x00000000       0xc4 ..\obj\misc.o
+ .text.NVIC_Enable
+                0x00000000       0x98 ..\obj\misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c ..\obj\misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 ..\obj\misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 ..\obj\misc.o
+ .debug_info    0x00000000      0x5b3 ..\obj\misc.o
+ .debug_abbrev  0x00000000      0x170 ..\obj\misc.o
+ .debug_aranges
+                0x00000000       0x48 ..\obj\misc.o
+ .debug_ranges  0x00000000       0x38 ..\obj\misc.o
+ .debug_line    0x00000000      0x2c5 ..\obj\misc.o
+ .debug_str     0x00000000      0x3f5 ..\obj\misc.o
+ .comment       0x00000000       0x6f ..\obj\misc.o
+ .debug_frame   0x00000000      0x100 ..\obj\misc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\misc.o
+ .text          0x00000000        0x0 ..\obj\file_functions.o
+ .data          0x00000000        0x0 ..\obj\file_functions.o
+ .bss           0x00000000        0x0 ..\obj\file_functions.o
+ .text.filePathByNum
+                0x00000000       0xd0 ..\obj\file_functions.o
+ .text.debugTask_inttochar
+                0x00000000       0x38 ..\obj\file_functions.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x74 ..\obj\stm32f10x_spi.o
+ .text.SPI_Init
+                0x00000000       0x86 ..\obj\stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000      0x168 ..\obj\stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x48 ..\obj\stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x36 ..\obj\stm32f10x_spi.o
+ .text.SPI_Cmd  0x00000000       0x3e ..\obj\stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x3e ..\obj\stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x60 ..\obj\stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000       0x1c ..\obj\stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x42 ..\obj\stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x3e ..\obj\stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x36 ..\obj\stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000       0x22 ..\obj\stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x3e ..\obj\stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000       0x30 ..\obj\stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000       0x18 ..\obj\stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x40 ..\obj\stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x74 ..\obj\stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x32 ..\obj\stm32f10x_spi.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x48 ..\obj\stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000      0x184 ..\obj\stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x3c ..\obj\stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x42 ..\obj\stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x46 ..\obj\stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000       0x1e ..\obj\stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000       0x1a ..\obj\stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x3a ..\obj\stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x2c ..\obj\stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x42 ..\obj\stm32f10x_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x40 ..\obj\stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x40 ..\obj\stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x40 ..\obj\stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000       0x1e ..\obj\stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x3e ..\obj\stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x40 ..\obj\stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x5e ..\obj\stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x42 ..\obj\stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x64 ..\obj\stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000       0x2c ..\obj\stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x58 ..\obj\stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000       0x2c ..\obj\stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb13 ..\obj\stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x18f ..\obj\stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x120 ..\obj\stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x110 ..\obj\stm32f10x_i2c.o
+ .debug_line    0x00000000      0x54b ..\obj\stm32f10x_i2c.o
+ .debug_str     0x00000000      0x691 ..\obj\stm32f10x_i2c.o
+ .comment       0x00000000       0x6f ..\obj\stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x530 ..\obj\stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_i2c.o
+ .text          0x00000000        0x0 ..\obj\sem.o
+ .data          0x00000000        0x0 ..\obj\sem.o
+ .bss           0x00000000        0x0 ..\obj\sem.o
+ .text.CoCreateSem
+                0x00000000       0x42 ..\obj\sem.o
+ .text.CoDelSem
+                0x00000000       0x34 ..\obj\sem.o
+ .text.CoAcceptSem
+                0x00000000       0x54 ..\obj\sem.o
+ .text.CoPendSem
+                0x00000000       0xe8 ..\obj\sem.o
+ .text.CoPostSem
+                0x00000000       0x5c ..\obj\sem.o
+ .text.isr_PostSem
+                0x00000000       0x44 ..\obj\sem.o
+ .debug_info    0x00000000      0x670 ..\obj\sem.o
+ .debug_abbrev  0x00000000      0x171 ..\obj\sem.o
+ .debug_aranges
+                0x00000000       0x48 ..\obj\sem.o
+ .debug_ranges  0x00000000       0x38 ..\obj\sem.o
+ .debug_line    0x00000000      0x1c1 ..\obj\sem.o
+ .debug_str     0x00000000      0x469 ..\obj\sem.o
+ .comment       0x00000000       0x6f ..\obj\sem.o
+ .debug_frame   0x00000000       0xe8 ..\obj\sem.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\sem.o
+ .text          0x00000000        0x0 ..\obj\usb_mem.o
+ .data          0x00000000        0x0 ..\obj\usb_mem.o
+ .bss           0x00000000        0x0 ..\obj\usb_mem.o
+ .text.UserToPMABufferCopy
+                0x00000000       0x74 ..\obj\usb_mem.o
+ .text.PMAToUserBufferCopy
+                0x00000000       0x5a ..\obj\usb_mem.o
+ .debug_info    0x00000000      0x590 ..\obj\usb_mem.o
+ .debug_abbrev  0x00000000      0x13e ..\obj\usb_mem.o
+ .debug_aranges
+                0x00000000       0x28 ..\obj\usb_mem.o
+ .debug_ranges  0x00000000       0x18 ..\obj\usb_mem.o
+ .debug_line    0x00000000      0x2dc ..\obj\usb_mem.o
+ .debug_str     0x00000000      0x628 ..\obj\usb_mem.o
+ .comment       0x00000000       0x6f ..\obj\usb_mem.o
+ .debug_frame   0x00000000       0x60 ..\obj\usb_mem.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_mem.o
+ .text          0x00000000        0x0 ..\obj\hook.o
+ .data          0x00000000        0x0 ..\obj\hook.o
+ .bss           0x00000000        0x0 ..\obj\hook.o
+ .text.CoIdleTask
+                0x00000000        0xa ..\obj\hook.o
+ .text.CoStkOverflowHook
+                0x00000000        0xc ..\obj\hook.o
+ .debug_info    0x00000000      0x520 ..\obj\hook.o
+ .debug_abbrev  0x00000000      0x115 ..\obj\hook.o
+ .debug_aranges
+                0x00000000       0x28 ..\obj\hook.o
+ .debug_ranges  0x00000000       0x18 ..\obj\hook.o
+ .debug_line    0x00000000      0x140 ..\obj\hook.o
+ .debug_str     0x00000000      0x40f ..\obj\hook.o
+ .comment       0x00000000       0x6f ..\obj\hook.o
+ .debug_frame   0x00000000       0x48 ..\obj\hook.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\hook.o
+ .text          0x00000000        0x0 ..\obj\buttons.o
+ .data          0x00000000        0x0 ..\obj\buttons.o
+ .bss           0x00000000        0x0 ..\obj\buttons.o
+ .text          0x00000000        0x0 ..\obj\usb_istr.o
+ .data          0x00000000       0x38 ..\obj\usb_istr.o
+ .bss           0x00000000        0x1 ..\obj\usb_istr.o
+ .text.USB_Istr
+                0x00000000       0x90 ..\obj\usb_istr.o
+ .debug_info    0x00000000      0x546 ..\obj\usb_istr.o
+ .debug_abbrev  0x00000000      0x14e ..\obj\usb_istr.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\usb_istr.o
+ .debug_ranges  0x00000000       0x10 ..\obj\usb_istr.o
+ .debug_line    0x00000000      0x290 ..\obj\usb_istr.o
+ .debug_str     0x00000000      0x60d ..\obj\usb_istr.o
+ .comment       0x00000000       0x6f ..\obj\usb_istr.o
+ .debug_frame   0x00000000       0x2c ..\obj\usb_istr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_istr.o
+ COMMON         0x00000000        0x2 ..\obj\usb_istr.o
+ .text          0x00000000        0x0 ..\obj\sd_spi_stm32.o
+ .rodata        0x00000000        0x8 ..\obj\sd_spi_stm32.o
+ .text.interface_speed
+                0x00000000       0x44 ..\obj\sd_spi_stm32.o
+ .text.socket_wp_init
+                0x00000000        0xc ..\obj\sd_spi_stm32.o
+ .text.socket_cp_init
+                0x00000000        0xc ..\obj\sd_spi_stm32.o
+ .text.card_power
+                0x00000000       0x14 ..\obj\sd_spi_stm32.o
+ .text.chk_power
+                0x00000000        0xe ..\obj\sd_spi_stm32.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .text._free_r  0x00000000      0x1cc c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x544 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000       0x54 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-sbrkr.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00010000         xr
+ram              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20005000                _eram = 0x20005000
+
+.text           0x08000000     0xf65f
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ..\obj\startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.Incomming_Byte_Processing
+                0x0800010c      0x2a0 ..\obj\dbgu.o
+                0x0800010c                Incomming_Byte_Processing
+ .text.USART_params_set
+                0x080003ac       0xc8 ..\obj\dbgu.o
+                0x080003ac                USART_params_set
+ .text.DBGU_Init
+                0x08000474       0xd8 ..\obj\dbgu.o
+                0x08000474                DBGU_Init
+ .text.USART1_Init
+                0x0800054c       0xd8 ..\obj\dbgu.o
+                0x0800054c                USART1_Init
+ .text.Port_send_char
+                0x08000624      0x1ac ..\obj\dbgu.o
+                0x08000624                Port_send_char
+ .text.USART2_IRQHandler
+                0x080007d0      0x11c ..\obj\dbgu.o
+                0x080007d0                USART2_IRQHandler
+ .text.USART1_IRQHandler
+                0x080008ec      0x11c ..\obj\dbgu.o
+                0x080008ec                USART1_IRQHandler
+ .text.TIM_ITConfig
+                0x08000a08       0x46 ..\obj\stm32f10x_tim.o
+                0x08000a08                TIM_ITConfig
+ *fill*         0x08000a4e        0x2 
+ .text.Descript
+                0x08000a50     0x40e0 ..\obj\descript_S.o
+                0x08000a50                Descript
+ .text.DS_chartoint
+                0x08004b30       0x52 ..\obj\descript_S.o
+                0x08004b30                DS_chartoint
+ .text.DS_inttochar
+                0x08004b82       0x38 ..\obj\descript_S.o
+                0x08004b82                DS_inttochar
+ .text.print_0X4
+                0x08004bba       0x9c ..\obj\descript_S.o
+                0x08004bba                print_0X4
+ *fill*         0x08004c56        0x2 
+ .text.Error_Message_full
+                0x08004c58      0x2ac ..\obj\descript_S.o
+                0x08004c58                Error_Message_full
+ .text.DS_hex_add_symbol
+                0x08004f04       0x26 ..\obj\descript_S.o
+                0x08004f04                DS_hex_add_symbol
+ *fill*         0x08004f2a        0x2 
+ .text.DS_num_add_symbol
+                0x08004f2c       0x44 ..\obj\descript_S.o
+                0x08004f2c                DS_num_add_symbol
+ .text.DS_Number_to_ASCII
+                0x08004f70       0x28 ..\obj\descript_S.o
+                0x08004f70                DS_Number_to_ASCII
+ .text.SystemInit
+                0x08004f98       0x68 ..\obj\system_stm32f10x.o
+                0x08004f98                SystemInit
+ .text.SetSysClockTo72
+                0x08005000       0xec ..\obj\system_stm32f10x.o
+ .text.HardFault_Handler
+                0x080050ec       0x14 ..\obj\exceptions.o
+                0x080050ec                HardFault_Handler
+ .text.hard_fault_handler_c
+                0x08005100       0x94 ..\obj\exceptions.o
+                0x08005100                hard_fault_handler_c
+ .text.WS2812_GPIO_init
+                0x08005194       0x30 ..\obj\init_ws.o
+                0x08005194                WS2812_GPIO_init
+ .text.WS2812_Timer_reinit
+                0x080051c4      0x198 ..\obj\init_ws.o
+                0x080051c4                WS2812_Timer_reinit
+ .text.WS2812_DMA_init
+                0x0800535c      0x1a4 ..\obj\init_ws.o
+                0x0800535c                WS2812_DMA_init
+ .text.WS2812_sendbuf
+                0x08005500       0xb8 ..\obj\init_ws.o
+                0x08005500                WS2812_sendbuf
+ .text.WS2812_SetStartPixelInBuffer
+                0x080055b8       0x30 ..\obj\init_ws.o
+                0x080055b8                WS2812_SetStartPixelInBuffer
+ .text.DMA1_Channel4_IRQHandler
+                0x080055e8       0x9c ..\obj\init_ws.o
+                0x080055e8                DMA1_Channel4_IRQHandler
+ .text.TIM4_IRQHandler
+                0x08005684       0x6c ..\obj\init_ws.o
+                0x08005684                TIM4_IRQHandler
+ .text.WS2812_framedata_setPixel_RGB
+                0x080056f0      0x1cc ..\obj\init_ws.o
+                0x080056f0                WS2812_framedata_setPixel_RGB
+ .text.WS2812_framedata_MultiplyPixel_RGB
+                0x080058bc      0x374 ..\obj\init_ws.o
+                0x080058bc                WS2812_framedata_MultiplyPixel_RGB
+ .text.WS2812_framedata_SwapPixel
+                0x08005c30      0x238 ..\obj\init_ws.o
+                0x08005c30                WS2812_framedata_SwapPixel
+ .text.WS2812_framedata_CheckPixel
+                0x08005e68       0xdc ..\obj\init_ws.o
+                0x08005e68                WS2812_framedata_CheckPixel
+ .text.WS2812_clear_buffer
+                0x08005f44       0x4e ..\obj\init_ws.o
+                0x08005f44                WS2812_clear_buffer
+ *fill*         0x08005f92        0x2 
+ .text.WS2812_framedata_Set_HighLow
+                0x08005f94       0x80 ..\obj\init_ws.o
+                0x08005f94                WS2812_framedata_Set_HighLow
+ .text.Default_Reset_Handler
+                0x08006014       0x60 ..\obj\startup_stm32f10x_md.o
+                0x08006014                Default_Reset_Handler
+                0x08006014                Reset_Handler
+ .text.Default_Handler
+                0x08006074        0x6 ..\obj\startup_stm32f10x_md.o
+                0x08006074                EXTI2_IRQHandler
+                0x08006074                DebugMon_Handler
+                0x08006074                TIM1_CC_IRQHandler
+                0x08006074                PVD_IRQHandler
+                0x08006074                NMI_Handler
+                0x08006074                EXTI3_IRQHandler
+                0x08006074                EXTI0_IRQHandler
+                0x08006074                I2C2_EV_IRQHandler
+                0x08006074                UsageFault_Handler
+                0x08006074                ADC1_2_IRQHandler
+                0x08006074                SPI1_IRQHandler
+                0x08006074                TAMPER_IRQHandler
+                0x08006074                USART3_IRQHandler
+                0x08006074                RTC_IRQHandler
+                0x08006074                DMA1_Channel7_IRQHandler
+                0x08006074                CAN1_RX1_IRQHandler
+                0x08006074                DMA1_Channel6_IRQHandler
+                0x08006074                TIM3_IRQHandler
+                0x08006074                RCC_IRQHandler
+                0x08006074                TIM1_TRG_COM_IRQHandler
+                0x08006074                DMA1_Channel1_IRQHandler
+                0x08006074                EXTI15_10_IRQHandler
+                0x08006074                EXTI9_5_IRQHandler
+                0x08006074                SPI2_IRQHandler
+                0x08006074                MemManage_Handler
+                0x08006074                SVC_Handler
+                0x08006074                DMA1_Channel5_IRQHandler
+                0x08006074                EXTI4_IRQHandler
+                0x08006074                USB_HP_CAN1_TX_IRQHandler
+                0x08006074                DMA1_Channel3_IRQHandler
+                0x08006074                TIM1_UP_IRQHandler
+                0x08006074                WWDG_IRQHandler
+                0x08006074                TIM1_BRK_IRQHandler
+                0x08006074                EXTI1_IRQHandler
+                0x08006074                RTCAlarm_IRQHandler
+                0x08006074                I2C2_ER_IRQHandler
+                0x08006074                DMA1_Channel2_IRQHandler
+                0x08006074                CAN1_SCE_IRQHandler
+                0x08006074                FLASH_IRQHandler
+                0x08006074                BusFault_Handler
+                0x08006074                USBWakeUp_IRQHandler
+ *fill*         0x0800607a        0x2 
+ .text.RequestButtonsState
+                0x0800607c       0x94 ..\obj\inputsTask.o
+                0x0800607c                RequestButtonsState
+ .text.ButtonActionImplement
+                0x08006110       0x58 ..\obj\inputsTask.o
+                0x08006110                ButtonActionImplement
+ .text.InputsTaskInit
+                0x08006168       0x24 ..\obj\inputsTask.o
+                0x08006168                InputsTaskInit
+ .text.ButtonsCheckSchedile
+                0x0800618c      0x3e0 ..\obj\inputsTask.o
+                0x0800618c                ButtonsCheckSchedile
+ .text.ExecuteIfButtonStatePrepressed
+                0x0800656c       0xcc ..\obj\inputsTask.o
+                0x0800656c                ExecuteIfButtonStatePrepressed
+ .text.main     0x08006638      0x17c ..\obj\main.o
+                0x08006638                main
+ .text.crc32_byte
+                0x080067b4       0x44 ..\obj\stm32f10x_crc.o
+                0x080067b4                crc32_byte
+ .text.CRC32_singleByte
+                0x080067f8       0x5c ..\obj\stm32f10x_crc.o
+                0x080067f8                CRC32_singleByte
+ .text.File_Open_Preparation
+                0x08006854      0x194 ..\obj\debugTask.o
+                0x08006854                File_Open_Preparation
+ .text.Reset_FileworkDirPath
+                0x080069e8       0x48 ..\obj\debugTask.o
+                0x080069e8                Reset_FileworkDirPath
+ .text.Path_FullName_in_Fileworkdirpath
+                0x08006a30       0x6c ..\obj\debugTask.o
+                0x08006a30                Path_FullName_in_Fileworkdirpath
+ .text.Read_Data_Chunk_From_File
+                0x08006a9c      0x128 ..\obj\debugTask.o
+                0x08006a9c                Read_Data_Chunk_From_File
+ .text.FastCommand
+                0x08006bc4      0x9b4 ..\obj\debugTask.o
+                0x08006bc4                FastCommand
+ .text.DebugTaskInit
+                0x08007578        0xc ..\obj\debugTask.o
+                0x08007578                DebugTaskInit
+ .text.TestTask
+                0x08007584      0x108 ..\obj\debugTask.o
+                0x08007584                TestTask
+ .text.MainLoop
+                0x0800768c     0x22f4 ..\obj\debugTask.o
+                0x0800768c                MainLoop
+ .text.Output_to_WS
+                0x08009980      0x174 ..\obj\debugTask.o
+                0x08009980                Output_to_WS
+ .text.Fail_Message
+                0x08009af4      0x12c ..\obj\debugTask.o
+                0x08009af4                Fail_Message
+ .text.Finish_Fileworks_Message
+                0x08009c20       0x26 ..\obj\debugTask.o
+                0x08009c20                Finish_Fileworks_Message
+ *fill*         0x08009c46        0x2 
+ .text.Message  0x08009c48       0x54 ..\obj\debugTask.o
+                0x08009c48                Message
+ .text.ModifyParameter
+                0x08009c9c       0x58 ..\obj\debugTask.o
+                0x08009c9c                ModifyParameter
+ .text.I2C1_DeInit
+                0x08009cf4       0x84 ..\obj\I2C_c.o
+                0x08009cf4                I2C1_DeInit
+ .text.I2C1_init
+                0x08009d78      0x178 ..\obj\I2C_c.o
+                0x08009d78                I2C1_init
+ .text.I2C1_Send
+                0x08009ef0      0x2f8 ..\obj\I2C_c.o
+                0x08009ef0                I2C1_Send
+ .text.I2C_Not_Enabled_Message
+                0x0800a1e8       0x18 ..\obj\I2C_c.o
+                0x0800a1e8                I2C_Not_Enabled_Message
+ .text.I2C1_ForceSend
+                0x0800a200      0x138 ..\obj\I2C_c.o
+                0x0800a200                I2C1_ForceSend
+ .text.start_I2C
+                0x0800a338       0x6c ..\obj\I2C_c.o
+                0x0800a338                start_I2C
+ .text.I2C1_EV_IRQHandler
+                0x0800a3a4       0x5c ..\obj\I2C_c.o
+                0x0800a3a4                I2C1_EV_IRQHandler
+ .text.I2C1_ER_IRQHandler
+                0x0800a400       0x60 ..\obj\I2C_c.o
+                0x0800a400                I2C1_ER_IRQHandler
+ .text.RCC_AHBPeriphClockCmd
+                0x0800a460       0x3c ..\obj\stm32f10x_rcc.o
+                0x0800a460                RCC_AHBPeriphClockCmd
+ .text.get_fattime
+                0x0800a49c       0x14 ..\obj\ff_addons.o
+                0x0800a49c                get_fattime
+ .text.ResetPause
+                0x0800a4b0       0x1c ..\obj\outputTask.o
+                0x0800a4b0                ResetPause
+ .text.start_servos
+                0x0800a4cc       0xd0 ..\obj\outputTask.o
+                0x0800a4cc                start_servos
+ .text.TIM2_IRQHandler
+                0x0800a59c       0x58 ..\obj\outputTask.o
+                0x0800a59c                TIM2_IRQHandler
+ .text.stop_servos
+                0x0800a5f4       0xa0 ..\obj\outputTask.o
+                0x0800a5f4                stop_servos
+ .text.UpdateServos
+                0x0800a694      0x2f8 ..\obj\outputTask.o
+                0x0800a694                UpdateServos
+ .text.Do_WS2812_Output_Sequence
+                0x0800a98c       0x3c ..\obj\outputTask.o
+                0x0800a98c                Do_WS2812_Output_Sequence
+ .text.OutputTaskInit
+                0x0800a9c8      0x110 ..\obj\outputTask.o
+                0x0800a9c8                OutputTaskInit
+ .text.Set_Next_Frame_for_Fast_Animation
+                0x0800aad8       0xf0 ..\obj\outputTask.o
+                0x0800aad8                Set_Next_Frame_for_Fast_Animation
+ .text.Servo_Set_Pins_and_Next_IRQ_Time
+                0x0800abc8      0x14c ..\obj\outputTask.o
+                0x0800abc8                Servo_Set_Pins_and_Next_IRQ_Time
+ .text.Multi_Output_Frame_And_Set_Next_Frame_And_Time
+                0x0800ad14       0x1c ..\obj\outputTask.o
+                0x0800ad14                Multi_Output_Frame_And_Set_Next_Frame_And_Time
+ .text.TInitOS  0x0800ad30       0x48 ..\obj\timings.o
+                0x0800ad30                TInitOS
+ .text.TGetOSTime
+                0x0800ad78       0x18 ..\obj\timings.o
+                0x0800ad78                TGetOSTime
+ .text.TEnterISR
+                0x0800ad90       0x1c ..\obj\timings.o
+                0x0800ad90                TEnterISR
+ .text.TExitISR
+                0x0800adac       0x2c ..\obj\timings.o
+                0x0800adac                TExitISR
+ .text.StandardSceduleTaskList
+                0x0800add8       0x38 ..\obj\timings.o
+                0x0800add8                StandardSceduleTaskList
+ .text.TTickDelay
+                0x0800ae10       0x48 ..\obj\timings.o
+                0x0800ae10                TTickDelay
+ .text.SysTick_Handler
+                0x0800ae58       0x2c ..\obj\timings.o
+                0x0800ae58                SysTick_Handler
+ .text.USB_com_Init
+                0x0800ae84       0x68 ..\obj\USB_c.o
+                0x0800ae84                USB_com_Init
+ .text.USB_RESET
+                0x0800aeec      0x16c ..\obj\USB_c.o
+                0x0800aeec                USB_RESET
+ .text.TO_WRITE_PMA
+                0x0800b058       0x74 ..\obj\USB_c.o
+                0x0800b058                TO_WRITE_PMA
+ .text.TO_READ_PMA
+                0x0800b0cc       0x60 ..\obj\USB_c.o
+                0x0800b0cc                TO_READ_PMA
+ .text.USB_Message
+                0x0800b12c       0xc4 ..\obj\USB_c.o
+                0x0800b12c                USB_Message
+ .text.USB_main_COM_react
+                0x0800b1f0       0x8c ..\obj\USB_c.o
+                0x0800b1f0                USB_main_COM_react
+ .text.CTR_LP_CTRX
+                0x0800b27c      0x7c0 ..\obj\USB_c.o
+                0x0800b27c                CTR_LP_CTRX
+ .text.USB_LP_CAN1_RX0_IRQHandler
+                0x0800ba3c       0x38 ..\obj\USB_c.o
+                0x0800ba3c                USB_LP_CAN1_RX0_IRQHandler
+ .text.PendSV_Handler
+                0x0800ba74       0x3c ..\obj\port.o
+                0x0800ba74                PendSV_Handler
+ .text.mem_cpy  0x0800bab0       0x5c ..\obj\ff.o
+ .text.mem_set  0x0800bb0c       0x32 ..\obj\ff.o
+ .text.mem_cmp  0x0800bb3e       0x4c ..\obj\ff.o
+ .text.chk_chr  0x0800bb8a       0x34 ..\obj\ff.o
+ .text.sync_window
+                0x0800bbbe       0x8c ..\obj\ff.o
+ .text.move_window
+                0x0800bc4a       0x50 ..\obj\ff.o
+ *fill*         0x0800bc9a        0x2 
+ .text.sync_fs  0x0800bc9c       0xc0 ..\obj\ff.o
+ .text.clust2sect
+                0x0800bd5c       0x3c ..\obj\ff.o
+                0x0800bd5c                clust2sect
+ .text.get_fat  0x0800bd98      0x130 ..\obj\ff.o
+                0x0800bd98                get_fat
+ .text.put_fat  0x0800bec8      0x1ae ..\obj\ff.o
+                0x0800bec8                put_fat
+ .text.remove_chain
+                0x0800c076       0x9e ..\obj\ff.o
+ .text.create_chain
+                0x0800c114      0x112 ..\obj\ff.o
+ .text.dir_sdi  0x0800c226      0x104 ..\obj\ff.o
+ .text.dir_next
+                0x0800c32a      0x1a4 ..\obj\ff.o
+ .text.dir_alloc
+                0x0800c4ce       0x82 ..\obj\ff.o
+ .text.ld_clust
+                0x0800c550       0x34 ..\obj\ff.o
+ .text.st_clust
+                0x0800c584       0x2a ..\obj\ff.o
+ .text.dir_find
+                0x0800c5ae       0x96 ..\obj\ff.o
+ .text.dir_read
+                0x0800c644       0xb0 ..\obj\ff.o
+ .text.dir_register
+                0x0800c6f4       0x64 ..\obj\ff.o
+ .text.dir_remove
+                0x0800c758       0x52 ..\obj\ff.o
+ *fill*         0x0800c7aa        0x2 
+ .text.create_name
+                0x0800c7ac      0x180 ..\obj\ff.o
+ .text.get_fileinfo
+                0x0800c92c       0xd8 ..\obj\ff.o
+ .text.follow_path
+                0x0800ca04       0xd4 ..\obj\ff.o
+ .text.check_fs
+                0x0800cad8       0x70 ..\obj\ff.o
+ .text.chk_mounted
+                0x0800cb48      0x3b4 ..\obj\ff.o
+ .text.validate
+                0x0800cefc       0x5a ..\obj\ff.o
+ *fill*         0x0800cf56        0x2 
+ .text.f_mount  0x0800cf58       0x54 ..\obj\ff.o
+                0x0800cf58                f_mount
+ .text.f_open   0x0800cfac      0x216 ..\obj\ff.o
+                0x0800cfac                f_open
+ .text.f_read   0x0800d1c2      0x250 ..\obj\ff.o
+                0x0800d1c2                f_read
+ .text.f_write  0x0800d412      0x302 ..\obj\ff.o
+                0x0800d412                f_write
+ .text.f_sync   0x0800d714       0xb0 ..\obj\ff.o
+                0x0800d714                f_sync
+ .text.f_close  0x0800d7c4       0x28 ..\obj\ff.o
+                0x0800d7c4                f_close
+ .text.f_lseek  0x0800d7ec      0x22a ..\obj\ff.o
+                0x0800d7ec                f_lseek
+ .text.f_opendir
+                0x0800da16       0xb4 ..\obj\ff.o
+                0x0800da16                f_opendir
+ .text.f_readdir
+                0x0800daca       0x86 ..\obj\ff.o
+                0x0800daca                f_readdir
+ .text.f_unlink
+                0x0800db50      0x152 ..\obj\ff.o
+                0x0800db50                f_unlink
+ .text.f_mkdir  0x0800dca2      0x1f0 ..\obj\ff.o
+                0x0800dca2                f_mkdir
+ .text.f_rename
+                0x0800de92      0x1b8 ..\obj\ff.o
+                0x0800de92                f_rename
+ .text.filehextofname
+                0x0800e04a       0x4c ..\obj\file_functions.o
+                0x0800e04a                filehextofname
+ *fill*         0x0800e096        0x2 
+ .text.filePathByFirstNum
+                0x0800e098       0xfc ..\obj\file_functions.o
+                0x0800e098                filePathByFirstNum
+ .text.DIRPathByName
+                0x0800e194       0xe0 ..\obj\file_functions.o
+                0x0800e194                DIRPathByName
+ .text.SPI_I2S_DMACmd
+                0x0800e274       0x46 ..\obj\stm32f10x_spi.o
+                0x0800e274                SPI_I2S_DMACmd
+ .text.SPI_I2S_ReceiveData
+                0x0800e2ba       0x18 ..\obj\stm32f10x_spi.o
+                0x0800e2ba                SPI_I2S_ReceiveData
+ .text.SPI_I2S_GetFlagStatus
+                0x0800e2d2       0x36 ..\obj\stm32f10x_spi.o
+                0x0800e2d2                SPI_I2S_GetFlagStatus
+ .text.ButtonsInit
+                0x0800e308       0x44 ..\obj\buttons.o
+                0x0800e308                ButtonsInit
+ .text.stm32_spi_rw
+                0x0800e34c       0x38 ..\obj\sd_spi_stm32.o
+ .text.rcvr_spi
+                0x0800e384       0x10 ..\obj\sd_spi_stm32.o
+ .text.wait_ready
+                0x0800e394       0x34 ..\obj\sd_spi_stm32.o
+ .text.release_spi
+                0x0800e3c8        0xc ..\obj\sd_spi_stm32.o
+ .text.stm32_dma_transfer
+                0x0800e3d4      0x1b8 ..\obj\sd_spi_stm32.o
+ .text.power_on
+                0x0800e58c      0x100 ..\obj\sd_spi_stm32.o
+ .text.power_off
+                0x0800e68c       0x94 ..\obj\sd_spi_stm32.o
+ .text.rcvr_datablock
+                0x0800e720       0x50 ..\obj\sd_spi_stm32.o
+ .text.xmit_datablock
+                0x0800e770       0x60 ..\obj\sd_spi_stm32.o
+ .text.send_cmd
+                0x0800e7d0       0xca ..\obj\sd_spi_stm32.o
+ *fill*         0x0800e89a        0x2 
+ .text.disk_initialize
+                0x0800e89c      0x1b0 ..\obj\sd_spi_stm32.o
+                0x0800e89c                disk_initialize
+ .text.disk_status
+                0x0800ea4c       0x28 ..\obj\sd_spi_stm32.o
+                0x0800ea4c                disk_status
+ .text.disk_read
+                0x0800ea74       0xd8 ..\obj\sd_spi_stm32.o
+                0x0800ea74                disk_read
+ .text.disk_write
+                0x0800eb4c       0xf8 ..\obj\sd_spi_stm32.o
+                0x0800eb4c                disk_write
+ .text.disk_ioctl
+                0x0800ec44      0x388 ..\obj\sd_spi_stm32.o
+                0x0800ec44                disk_ioctl
+ .text.disk_timerproc
+                0x0800efcc       0x48 ..\obj\sd_spi_stm32.o
+                0x0800efcc                disk_timerproc
+ .text          0x0800f014       0xec c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+                0x0800f014                memcpy
+ .text.srand    0x0800f100       0x14 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+                0x0800f100                srand
+ .text.rand     0x0800f114       0x40 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+                0x0800f114                rand
+ .text.strcat   0x0800f154       0x40 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+                0x0800f154                strcat
+ .text.strcpy   0x0800f194       0xbc c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+                0x0800f194                strcpy
+ .text.strlen   0x0800f250       0x5c c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+                0x0800f250                strlen
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0800f2ac       0x1a ..\obj\dbgu.o
+ *fill*         0x0800f2c6        0x2 
+ .rodata        0x0800f2c8      0x112 ..\obj\descript_S.o
+ *fill*         0x0800f3da        0x2 
+ .rodata        0x0800f3dc       0xfa ..\obj\debugTask.o
+ *fill*         0x0800f4d6        0x2 
+ .rodata        0x0800f4d8       0x5d ..\obj\I2C_c.o
+ *fill*         0x0800f535        0x3 
+ .rodata        0x0800f538       0x7c ..\obj\USB_c.o
+                0x0800f538                DeviceDiscriptor
+                0x0800f54c                ConfigDescriptor
+ .rodata        0x0800f5b4       0x8f ..\obj\ff.o
+ *fill*         0x0800f643        0x1 
+ .rodata        0x0800f644       0x1b ..\obj\file_functions.o
+ *(.eh_fram e*)
+
+.glue_7         0x0800f660        0x0
+ .glue_7        0x0800f660        0x0 linker stubs
+
+.glue_7t        0x0800f660        0x0
+ .glue_7t       0x0800f660        0x0 linker stubs
+
+.vfp11_veneer   0x0800f660        0x0
+ .vfp11_veneer  0x0800f660        0x0 linker stubs
+
+.v4_bx          0x0800f660        0x0
+ .v4_bx         0x0800f660        0x0 linker stubs
+
+.iplt           0x0800f660        0x0
+ .iplt          0x0800f660        0x0 ..\obj\usb_core.o
+
+.rel.dyn        0x0800f660        0x0
+ .rel.iplt      0x0800f660        0x0 ..\obj\usb_core.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800f660                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800f660                __exidx_end = .
+                0x0800f660                __etext = .
+                0x0800f65f                _sidata = __etext
+
+.data           0x20000000      0x4a8 load address 0x0800f65f
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x10 ..\obj\dbgu.o
+                0x20000000                Port_tx_buff
+                0x20000008                Port_tx_CR1
+ .data          0x20000010       0x14 ..\obj\system_stm32f10x.o
+                0x20000010                SystemCoreClock
+                0x20000014                AHBPrescTable
+ .data          0x20000024       0x4c ..\obj\main.o
+                0x20000024                DS_TotalPoints
+                0x20000026                DS_LED_Brightness
+                0x20000027                WS2812_IO_High
+                0x20000028                Timer4_counter
+                0x2000002a                LED_control_type
+                0x2000002c                WS2812_Frame_Length
+                0x2000002e                WS2812_Frame_Length_Actual
+                0x20000030                WS2812_Frame_Byte_Length
+                0x20000034                WS2812_Frame_Byte_Length_Actual
+                0x20000038                WS2812_Frame_Count
+                0x2000003a                WS2812_Frame_Count_Actual
+                0x2000003c                WS2812_Frame_Total_Count
+                0x2000003e                WS2812_Frame_Period
+                0x20000040                WS2812_Frame_Period_Actual
+                0x20000044                Servo_Period
+                0x20000048                Servo_Actual_Period
+                0x2000004c                Servo_MinPos
+                0x20000050                Servo_MaxPos
+                0x20000054                Servo_Resolution
+                0x20000058                Servo_Period_default
+                0x2000005c                Servo_MinPos_default
+                0x20000060                Servo_MaxPos_default
+                0x20000064                Servo_Resolution_default
+                0x20000066                Servo_Action_Mask
+                0x20000068                ButtonCompleteSetting
+                0x2000006c                AfterLoop_File_Num
+                0x2000006e                AfterMulti_File_Num
+ .data          0x20000070        0x2 ..\obj\I2C_c.o
+                0x20000070                I2C_sended_byte_index
+ .data          0x20000072        0x2 ..\obj\outputTask.o
+                0x20000072                DS_LastPointsUpdated
+ .data          0x20000074        0x1 ..\obj\sd_spi_stm32.o
+ *fill*         0x20000075        0x3 
+ .data._impure_ptr
+                0x20000078        0x4 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                0x20000078                _impure_ptr
+ *fill*         0x2000007c        0x4 
+ .data.impure_data
+                0x20000080      0x428 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                0x200004a8                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+                0x200004a8                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+                0x200004a8                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x200004a8                . = ALIGN (0x4)
+                0x200004a8                __data_end__ = .
+                0x200004a8                _edata = __data_end__
+
+.igot.plt       0x200004a8        0x0 load address 0x0800fb08
+ .igot.plt      0x200004a8        0x0 ..\obj\usb_core.o
+
+.bss            0x200004a8     0x4314 load address 0x0800fb08
+                0x200004a8                . = ALIGN (0x4)
+                0x200004a8                __bss_start__ = .
+                0x200004a8                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x200004a8       0x5c ..\obj\dbgu.o
+ .bss           0x20000504        0x3 ..\obj\core.o
+                0x20000504                OSIntNesting
+                0x20000505                OSSchedLock
+                0x20000506                TaskSchedReq
+ *fill*         0x20000507        0x1 
+ .bss           0x20000508        0x6 ..\obj\descript_S.o
+                0x20000508                ButtonNomberCarrier
+                0x2000050a                CheckPixel_miscomparations
+                0x2000050c                DS_Flag_Register
+                0x2000050d                DS_current_char
+ *fill*         0x2000050e        0x2 
+ .bss           0x20000510      0x120 ..\obj\task.o
+                0x20000510                TCBTbl
+                0x200005b0                idle_stk
+                0x20000614                FreeTCB
+                0x20000618                TCBRdy
+                0x2000061c                TCBNext
+                0x20000620                TCBRunning
+                0x20000628                OSCheckTime
+ .bss           0x20000630        0x8 ..\obj\inputsTask.o
+                0x20000630                ButtonReactionTick
+ .bss           0x20000638       0x71 ..\obj\main.o
+                0x20000638                DS_status
+                0x2000063a                DS_buf_start
+                0x2000063c                DS_comm_num
+                0x2000063e                DS_WSpoint_counter
+                0x20000640                DS_RGB_counter
+                0x20000644                DS_Param
+                0x20000648                file_to_read
+                0x2000064a                DS_maxCurrPoints
+                0x2000064c                WS2812_IO_Low
+                0x2000064d                TIM4_overflows
+                0x20000650                WS2812_Frame_Start_Pointer
+                0x20000654                WS2812_Frame_Start_Pointer_Actual
+                0x20000658                Servo_Update_Flag
+                0x2000065a                Servo_GPIO_Setting_on
+                0x2000065c                Servo_GPIO_Setting_off
+                0x2000065e                Servo_GPIO_Actual_on
+                0x20000660                Servo_GPIO_Actual_off
+                0x20000668                nextPauseStartTime
+                0x20000670                FileReadStartTime
+                0x20000678                nextAbsolutPauseExpireTime
+                0x20000680                M25ReverseTime
+                0x20000688                M25ReversePauseValue
+                0x2000068c                descrActionFlag
+                0x2000068e                buttonsState
+                0x20000690                ButtonWaitStart
+                0x20000698                ButtonCompleteStart
+                0x200006a0                ButtonWaitSetting
+                0x200006a4                ButtonFlags
+                0x200006a6                ButtonEncoder
+                0x200006a8                ChosenNomberInM98
+ *fill*         0x200006a9        0x3 
+ .bss           0x200006ac      0x278 ..\obj\debugTask.o
+                0x200006ac                MainLoop_ResetTime
+                0x20000908                String_in_file_Index
+                0x2000090a                String_in_file_Index_Backup
+                0x2000090c                Char_in_string_index
+                0x2000090e                SD_Recheck_Countdown
+                0x20000910                FilePTR_Backup
+                0x20000914                FileClust_Backup
+                0x20000918                FileWorksPTR
+                0x2000091c                File_Read_Cycle_Count
+                0x2000091e                File_Read_Cycle_Count_Backup
+                0x20000920                DS_buf_start_backup
+                0x20000922                tempUSBpar
+ .bss           0x20000924       0x10 ..\obj\I2C_c.o
+                0x20000924                I2C_stage
+                0x20000925                I2C_Bytes_To_Send
+                0x20000926                I2C_SelfAddress
+                0x20000927                I2C_Bytes_Recieved
+                0x20000928                I2C_Bytes_to_Recieve
+                0x2000092c                event
+                0x20000930                flag2
+ *fill*         0x20000934        0x4 
+ .bss           0x20000938       0x20 ..\obj\timings.o
+                0x20000938                TickCnt
+                0x20000940                ISRFlag
+                0x20000948                WokeUpTick
+                0x20000950                disc_timeproc_repeater
+ .bss           0x20000958        0xd ..\obj\USB_c.o
+                0x20000958                BKIstr
+                0x2000095a                USB_Command
+                0x2000095c                USB_RX_Start_pointer
+                0x2000095e                USB_Recieved_bytes
+                0x20000960                USB_Bytes_to_send_left
+                0x20000962                USB_state_flag
+                0x20000963                USB_DADDR
+                0x20000964                USB_Function_flags
+ *fill*         0x20000965        0x3 
+ .bss           0x20000968        0x6 ..\obj\ff.o
+ *fill*         0x2000096e        0x2 
+ .bss           0x20000970        0x9 ..\obj\sd_spi_stm32.o
+ *(COMMON)
+ *fill*         0x20000979        0x7 
+ COMMON         0x20000980      0x23a ..\obj\dbgu.o
+                0x20000980                USART1_rx_buf_counter
+                0x20000984                dbgu_rx_buff
+                0x20000a84                j
+                0x20000a86                dbgu_rx_buf_counter
+                0x20000a88                k
+                0x20000a8a                USART1_rx_buf_start
+                0x20000a90                USART1_rx_start_time
+                0x20000a98                i
+                0x20000a9c                temp_tx_head
+                0x20000aa0                USART1_rx_buff
+                0x20000ba0                USART1_State_of_recieved_Command
+                0x20000ba1                dbgu_State_of_recieved_Command
+                0x20000ba8                dbgu_rx_start_time
+                0x20000bb0                dbgu_rx_timeout
+                0x20000bb4                USART1_rx_timeout
+                0x20000bb8                dbgu_rx_buf_start
+ *fill*         0x20000bba        0x2 
+ COMMON         0x20000bbc        0x9 ..\obj\descript_S.o
+                0x20000bbc                DS_WS_line_mask
+                0x20000bbd                DS_Status_backup
+                0x20000bbe                DS_Repeater_set
+                0x20000bc0                Descript_answer
+                0x20000bc4                DS_Repeat_Count
+ *fill*         0x20000bc5        0x1 
+ COMMON         0x20000bc6        0x4 ..\obj\usb_int.o
+                0x20000bc6                SaveRState
+                0x20000bc8                SaveTState
+ *fill*         0x20000bca        0x2 
+ COMMON         0x20000bcc        0x4 ..\obj\init_ws.o
+                0x20000bcc                WS2812_IO_framedata_Start_address
+ COMMON         0x20000bd0        0x4 ..\obj\inputsTask.o
+                0x20000bd0                I_b16
+ COMMON         0x20000bd4       0x32 ..\obj\usb_init.o
+                0x20000bd4                SaveState
+                0x20000bd8                pProperty
+                0x20000bdc                EPindex
+                0x20000be0                Device_Info
+                0x20000bfc                pUser_Standard_Requests
+                0x20000c00                pInformation
+                0x20000c04                wInterrupt_Mask
+ *fill*         0x20000c06        0x2 
+ COMMON         0x20000c08     0x3980 ..\obj\main.o
+                0x20000c08                File_Suspend_start
+                0x20000c10                buttonPushInterrupt
+                0x20000c14                CommandArgForButton
+                0x20000c58                ButtonEncorerIndiv
+                0x20000c5c                buttonRelInterrupt
+                0x20000c60                text_buff
+                0x20000e68                osTime
+                0x20000e70                Servo_Pos_Mask
+                0x20000e84                buttonsNewState
+                0x20000e88                need_pause
+                0x20000e8c                DebugInfoOutFlag
+                0x20000e8d                DS_Channel_Select
+                0x20000e90                Servo_Pos
+                0x20000ea4                Servo_Pos_Temp
+                0x20000eb4                Personal_ID
+                0x20000eb8                DS_buf_counter
+                0x20000eba                Servo_step
+                0x20000ebc                FastCommandForButton
+                0x20000f00                numFileForButton
+                0x20000f82                DS_Pause_interrupt_Flag
+                0x20000f84                WS2812_IO_framedata
+                0x20004584                Servo_time
+ COMMON         0x20004588        0x4 ..\obj\stm32f10x_crc.o
+                0x20004588                CRC_sum
+ COMMON         0x2000458c       0xee ..\obj\debugTask.o
+                0x2000458c                read_size
+                0x20004590                USART_counter_pointer
+                0x20004594                path
+                0x200045b6                buttonInterrupt_tmp
+                0x200045b8                USART_Buf_pointer
+                0x200045bc                buttonInterrupt
+                0x200045c0                filinfo
+                0x200045d8                descrResult
+                0x200045d9                dbgu_rx_buf_overcount
+                0x200045da                a8
+                0x200045dc                USART_ptr_State_of_recieved_Command
+                0x200045e0                SD_Volume_Exists
+                0x200045e2                dbgu_rx_temp_start
+                0x200045e4                USART_ptr_rx_start_time
+                0x200045e8                fname
+                0x200045f8                FileworksDirpath
+                0x20004610                Prev_File_Num
+                0x20004612                Parent_File_Num
+                0x20004614                Parent_Prev_File_Num
+                0x20004618                Dirpath
+                0x20004630                dir
+                0x2000464c                Next_File_Num
+                0x2000464e                a16
+                0x20004650                Current_File_Num
+                0x20004654                path2
+                0x20004676                File_Open_Flags
+                0x20004678                dbgu_rx_temp_counter
+ *fill*         0x2000467a        0x2 
+ COMMON         0x2000467c       0xa2 ..\obj\I2C_c.o
+                0x2000467c                I2C_rx_buf
+                0x20004688                I2C_eventListener
+                0x2000468c                I2C_ResetTime
+                0x20004690                i2c8
+                0x20004692                i2c16
+                0x20004694                icc
+                0x20004698                I2C_tx_buff
+                0x2000471a                I2C_TargetAddress
+                0x2000471c                ic
+ *fill*         0x2000471e        0x2 
+ COMMON         0x20004720       0x9c ..\obj\USB_c.o
+                0x20004720                USB_Feature
+                0x20004721                Related_Endpoint
+                0x20004722                TempEP
+                0x20004724                i32
+                0x20004728                USB_COM_TX_Buff1
+                0x20004768                Reserved
+                0x2000476c                USB_Buff1
+                0x200047ac                USB_Interface
+                0x200047b0                USB_rx_timeout
+                0x200047b4                USB_wLength
+                0x200047b6                USB_Configuration
+                0x200047b8                USB_wValue
+                0x200047ba                USB_wIndex
+                0x200047bc                . = ALIGN (0x4)
+                0x200047bc                __bss_end__ = .
+                0x200047bc                _ebss = __bss_end__
+
+.heap           0x200047bc        0x0
+                0x200047bc                __end__ = .
+                0x200047bc                _end = __end__
+                0x200047bc                end = __end__
+ *(.heap*)
+                0x200047bc                __HeapLimit = .
+
+.co_stack       0x200047bc      0x404 load address 0x08013e1c
+                0x200047c0                . = ALIGN (0x8)
+ *fill*         0x200047bc        0x4 
+ *(.co_stack .co_stack.*)
+ .co_stack      0x200047c0      0x400 ..\obj\startup_stm32f10x_md.o
+                0x200047c0                pulStack
+                0x20005000                __StackTop = (ORIGIN (ram) + LENGTH (ram))
+                0x20004bfc                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                [!provide]                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\otgd_fs_pcd.o
+LOAD ..\obj\usb_core.o
+LOAD ..\obj\dbgu.o
+LOAD ..\obj\stm32f10x_tim.o
+LOAD ..\obj\kernelHeap.o
+LOAD ..\obj\core.o
+LOAD ..\obj\descript_S.o
+LOAD ..\obj\timer.o
+LOAD ..\obj\utility.o
+LOAD ..\obj\usb_int.o
+LOAD ..\obj\system_stm32f10x.o
+LOAD ..\obj\exceptions.o
+LOAD ..\obj\newlib_stubs.o
+LOAD ..\obj\usb_desc.o
+LOAD ..\obj\usb_regs.o
+LOAD ..\obj\init_ws.o
+LOAD ..\obj\startup_stm32f10x_md.o
+LOAD ..\obj\task.o
+LOAD ..\obj\hw_config.o
+LOAD ..\obj\stm32f10x_gpio.o
+LOAD ..\obj\inputsTask.o
+LOAD ..\obj\usb_prop.o
+LOAD ..\obj\serviceReq.o
+LOAD ..\obj\usb_pwr.o
+LOAD ..\obj\usb_init.o
+LOAD ..\obj\main.o
+LOAD ..\obj\usb-main.o
+LOAD ..\obj\otgd_fs_dev.o
+LOAD ..\obj\stm32f10x_crc.o
+LOAD ..\obj\debugTask.o
+LOAD ..\obj\I2C_c.o
+LOAD ..\obj\stm32f10x_rcc.o
+LOAD ..\obj\mbox.o
+LOAD ..\obj\mm.o
+LOAD ..\obj\stm32f10x_exti.o
+LOAD ..\obj\ff_addons.o
+LOAD ..\obj\outputTask.o
+LOAD ..\obj\stm32f10x_usart.o
+LOAD ..\obj\stdio.o
+LOAD ..\obj\otgd_fs_int.o
+LOAD ..\obj\usb_sil.o
+LOAD ..\obj\time.o
+LOAD ..\obj\event.o
+LOAD ..\obj\timings.o
+LOAD ..\obj\otgd_fs_cal.o
+LOAD ..\obj\stm32f10x_flash.o
+LOAD ..\obj\USB_c.o
+LOAD ..\obj\queue.o
+LOAD ..\obj\port.o
+LOAD ..\obj\mutex.o
+LOAD ..\obj\flag.o
+LOAD ..\obj\usb_endp.o
+LOAD ..\obj\ff.o
+LOAD ..\obj\stm32f10x_dma.o
+LOAD ..\obj\arch.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\file_functions.o
+LOAD ..\obj\stm32f10x_spi.o
+LOAD ..\obj\stm32f10x_i2c.o
+LOAD ..\obj\sem.o
+LOAD ..\obj\usb_mem.o
+LOAD ..\obj\hook.o
+LOAD ..\obj\buttons.o
+LOAD ..\obj\usb_istr.o
+LOAD ..\obj\sd_spi_stm32.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+END GROUP
+OUTPUT(p11_sd-card.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x15d62
+ .debug_info    0x00000000     0x13d2 ..\obj\dbgu.o
+ .debug_info    0x000013d2     0x1c67 ..\obj\stm32f10x_tim.o
+ .debug_info    0x00003039      0x59b ..\obj\core.o
+ .debug_info    0x000035d4     0x152d ..\obj\descript_S.o
+ .debug_info    0x00004b01      0x588 ..\obj\usb_int.o
+ .debug_info    0x00005089      0x4a3 ..\obj\system_stm32f10x.o
+ .debug_info    0x0000552c      0xc02 ..\obj\exceptions.o
+ .debug_info    0x0000612e     0x18a7 ..\obj\init_ws.o
+ .debug_info    0x000079d5      0x10b ..\obj\startup_stm32f10x_md.o
+ .debug_info    0x00007ae0      0x85c ..\obj\task.o
+ .debug_info    0x0000833c      0xc05 ..\obj\inputsTask.o
+ .debug_info    0x00008f41      0x508 ..\obj\usb_init.o
+ .debug_info    0x00009449      0xf84 ..\obj\main.o
+ .debug_info    0x0000a3cd      0x2cb ..\obj\stm32f10x_crc.o
+ .debug_info    0x0000a698     0x185e ..\obj\debugTask.o
+ .debug_info    0x0000bef6      0xff7 ..\obj\I2C_c.o
+ .debug_info    0x0000ceed      0x8ae ..\obj\stm32f10x_rcc.o
+ .debug_info    0x0000d79b      0x540 ..\obj\ff_addons.o
+ .debug_info    0x0000dcdb     0x128a ..\obj\outputTask.o
+ .debug_info    0x0000ef65      0x9f8 ..\obj\timings.o
+ .debug_info    0x0000f95d     0x1086 ..\obj\USB_c.o
+ .debug_info    0x000109e3      0x5e3 ..\obj\port.o
+ .debug_info    0x00010fc6     0x1f24 ..\obj\ff.o
+ .debug_info    0x00012eea      0xdaf ..\obj\file_functions.o
+ .debug_info    0x00013c99      0x902 ..\obj\stm32f10x_spi.o
+ .debug_info    0x0001459b      0x9f7 ..\obj\buttons.o
+ .debug_info    0x00014f92      0xdd0 ..\obj\sd_spi_stm32.o
+
+.debug_abbrev   0x00000000     0x39ae
+ .debug_abbrev  0x00000000      0x2ff ..\obj\dbgu.o
+ .debug_abbrev  0x000002ff      0x1c1 ..\obj\stm32f10x_tim.o
+ .debug_abbrev  0x000004c0      0x12b ..\obj\core.o
+ .debug_abbrev  0x000005eb      0x305 ..\obj\descript_S.o
+ .debug_abbrev  0x000008f0      0x16b ..\obj\usb_int.o
+ .debug_abbrev  0x00000a5b      0x16c ..\obj\system_stm32f10x.o
+ .debug_abbrev  0x00000bc7      0x1f5 ..\obj\exceptions.o
+ .debug_abbrev  0x00000dbc      0x32f ..\obj\init_ws.o
+ .debug_abbrev  0x000010eb       0xb6 ..\obj\startup_stm32f10x_md.o
+ .debug_abbrev  0x000011a1      0x1f0 ..\obj\task.o
+ .debug_abbrev  0x00001391      0x2a2 ..\obj\inputsTask.o
+ .debug_abbrev  0x00001633      0x11c ..\obj\usb_init.o
+ .debug_abbrev  0x0000174f      0x218 ..\obj\main.o
+ .debug_abbrev  0x00001967      0x17b ..\obj\stm32f10x_crc.o
+ .debug_abbrev  0x00001ae2      0x347 ..\obj\debugTask.o
+ .debug_abbrev  0x00001e29      0x336 ..\obj\I2C_c.o
+ .debug_abbrev  0x0000215f      0x1cd ..\obj\stm32f10x_rcc.o
+ .debug_abbrev  0x0000232c      0x117 ..\obj\ff_addons.o
+ .debug_abbrev  0x00002443      0x2ee ..\obj\outputTask.o
+ .debug_abbrev  0x00002731      0x276 ..\obj\timings.o
+ .debug_abbrev  0x000029a7      0x2f1 ..\obj\USB_c.o
+ .debug_abbrev  0x00002c98      0x183 ..\obj\port.o
+ .debug_abbrev  0x00002e1b      0x2aa ..\obj\ff.o
+ .debug_abbrev  0x000030c5      0x277 ..\obj\file_functions.o
+ .debug_abbrev  0x0000333c      0x1a9 ..\obj\stm32f10x_spi.o
+ .debug_abbrev  0x000034e5      0x1bd ..\obj\buttons.o
+ .debug_abbrev  0x000036a2      0x30c ..\obj\sd_spi_stm32.o
+
+.debug_aranges  0x00000000      0xde8
+ .debug_aranges
+                0x00000000       0x60 ..\obj\dbgu.o
+ .debug_aranges
+                0x00000060      0x2f0 ..\obj\stm32f10x_tim.o
+ .debug_aranges
+                0x00000350       0x58 ..\obj\core.o
+ .debug_aranges
+                0x000003a8       0x80 ..\obj\descript_S.o
+ .debug_aranges
+                0x00000428       0x28 ..\obj\usb_int.o
+ .debug_aranges
+                0x00000450       0x38 ..\obj\system_stm32f10x.o
+ .debug_aranges
+                0x00000488       0x30 ..\obj\exceptions.o
+ .debug_aranges
+                0x000004b8       0xa8 ..\obj\init_ws.o
+ .debug_aranges
+                0x00000560       0x28 ..\obj\startup_stm32f10x_md.o
+ .debug_aranges
+                0x00000588       0x78 ..\obj\task.o
+ .debug_aranges
+                0x00000600       0x40 ..\obj\inputsTask.o
+ .debug_aranges
+                0x00000640       0x20 ..\obj\usb_init.o
+ .debug_aranges
+                0x00000660       0x20 ..\obj\main.o
+ .debug_aranges
+                0x00000680       0x58 ..\obj\stm32f10x_crc.o
+ .debug_aranges
+                0x000006d8       0x90 ..\obj\debugTask.o
+ .debug_aranges
+                0x00000768       0x68 ..\obj\I2C_c.o
+ .debug_aranges
+                0x000007d0      0x118 ..\obj\stm32f10x_rcc.o
+ .debug_aranges
+                0x000008e8       0x28 ..\obj\ff_addons.o
+ .debug_aranges
+                0x00000910       0x68 ..\obj\outputTask.o
+ .debug_aranges
+                0x00000978       0x50 ..\obj\timings.o
+ .debug_aranges
+                0x000009c8       0x68 ..\obj\USB_c.o
+ .debug_aranges
+                0x00000a30       0x50 ..\obj\port.o
+ .debug_aranges
+                0x00000a80      0x178 ..\obj\ff.o
+ .debug_aranges
+                0x00000bf8       0x40 ..\obj\file_functions.o
+ .debug_aranges
+                0x00000c38       0xd0 ..\obj\stm32f10x_spi.o
+ .debug_aranges
+                0x00000d08       0x20 ..\obj\buttons.o
+ .debug_aranges
+                0x00000d28       0xc0 ..\obj\sd_spi_stm32.o
+
+.debug_ranges   0x00000000      0xc68
+ .debug_ranges  0x00000000       0x80 ..\obj\dbgu.o
+ .debug_ranges  0x00000080      0x2e0 ..\obj\stm32f10x_tim.o
+ .debug_ranges  0x00000360       0x48 ..\obj\core.o
+ .debug_ranges  0x000003a8       0x70 ..\obj\descript_S.o
+ .debug_ranges  0x00000418       0x18 ..\obj\usb_int.o
+ .debug_ranges  0x00000430       0x28 ..\obj\system_stm32f10x.o
+ .debug_ranges  0x00000458       0x20 ..\obj\exceptions.o
+ .debug_ranges  0x00000478       0x98 ..\obj\init_ws.o
+ .debug_ranges  0x00000510       0x18 ..\obj\startup_stm32f10x_md.o
+ .debug_ranges  0x00000528       0x68 ..\obj\task.o
+ .debug_ranges  0x00000590       0x30 ..\obj\inputsTask.o
+ .debug_ranges  0x000005c0       0x10 ..\obj\usb_init.o
+ .debug_ranges  0x000005d0       0x10 ..\obj\main.o
+ .debug_ranges  0x000005e0       0x48 ..\obj\stm32f10x_crc.o
+ .debug_ranges  0x00000628       0x80 ..\obj\debugTask.o
+ .debug_ranges  0x000006a8       0x58 ..\obj\I2C_c.o
+ .debug_ranges  0x00000700      0x108 ..\obj\stm32f10x_rcc.o
+ .debug_ranges  0x00000808       0x18 ..\obj\ff_addons.o
+ .debug_ranges  0x00000820       0x58 ..\obj\outputTask.o
+ .debug_ranges  0x00000878       0x40 ..\obj\timings.o
+ .debug_ranges  0x000008b8       0x58 ..\obj\USB_c.o
+ .debug_ranges  0x00000910       0x40 ..\obj\port.o
+ .debug_ranges  0x00000950      0x168 ..\obj\ff.o
+ .debug_ranges  0x00000ab8       0x30 ..\obj\file_functions.o
+ .debug_ranges  0x00000ae8       0xc0 ..\obj\stm32f10x_spi.o
+ .debug_ranges  0x00000ba8       0x10 ..\obj\buttons.o
+ .debug_ranges  0x00000bb8       0xb0 ..\obj\sd_spi_stm32.o
+
+.debug_line     0x00000000     0x85e0
+ .debug_line    0x00000000      0x480 ..\obj\dbgu.o
+ .debug_line    0x00000480      0xbb6 ..\obj\stm32f10x_tim.o
+ .debug_line    0x00001036      0x1bd ..\obj\core.o
+ .debug_line    0x000011f3      0xf4c ..\obj\descript_S.o
+ .debug_line    0x0000213f      0x35d ..\obj\usb_int.o
+ .debug_line    0x0000249c      0x25a ..\obj\system_stm32f10x.o
+ .debug_line    0x000026f6      0x2b1 ..\obj\exceptions.o
+ .debug_line    0x000029a7      0x6c0 ..\obj\init_ws.o
+ .debug_line    0x00003067       0xb5 ..\obj\startup_stm32f10x_md.o
+ .debug_line    0x0000311c      0x321 ..\obj\task.o
+ .debug_line    0x0000343d      0x436 ..\obj\inputsTask.o
+ .debug_line    0x00003873      0x288 ..\obj\usb_init.o
+ .debug_line    0x00003afb      0x308 ..\obj\main.o
+ .debug_line    0x00003e03      0x2b5 ..\obj\stm32f10x_crc.o
+ .debug_line    0x000040b8      0xba4 ..\obj\debugTask.o
+ .debug_line    0x00004c5c      0x46c ..\obj\I2C_c.o
+ .debug_line    0x000050c8      0x531 ..\obj\stm32f10x_rcc.o
+ .debug_line    0x000055f9      0x192 ..\obj\ff_addons.o
+ .debug_line    0x0000578b      0x4cf ..\obj\outputTask.o
+ .debug_line    0x00005c5a      0x307 ..\obj\timings.o
+ .debug_line    0x00005f61      0x5c1 ..\obj\USB_c.o
+ .debug_line    0x00006522      0x1ee ..\obj\port.o
+ .debug_line    0x00006710      0xcd9 ..\obj\ff.o
+ .debug_line    0x000073e9      0x3f3 ..\obj\file_functions.o
+ .debug_line    0x000077dc      0x493 ..\obj\stm32f10x_spi.o
+ .debug_line    0x00007c6f      0x283 ..\obj\buttons.o
+ .debug_line    0x00007ef2      0x6ee ..\obj\sd_spi_stm32.o
+
+.debug_str      0x00000000     0x51c0
+ .debug_str     0x00000000      0xd9f ..\obj\dbgu.o
+                                0xe54 (size before relaxing)
+ .debug_str     0x00000d9f      0xbda ..\obj\stm32f10x_tim.o
+                                0xe08 (size before relaxing)
+ .debug_str     0x00001979      0x349 ..\obj\core.o
+                                0x452 (size before relaxing)
+ .debug_str     0x00001cc2      0x9bb ..\obj\descript_S.o
+                               0x109a (size before relaxing)
+ .debug_str     0x0000267d      0x41f ..\obj\usb_int.o
+                                0x603 (size before relaxing)
+ .debug_str     0x00002a9c      0x130 ..\obj\system_stm32f10x.o
+                                0x30a (size before relaxing)
+ .debug_str     0x00002bcc      0x11a ..\obj\exceptions.o
+                                0x714 (size before relaxing)
+ .debug_str     0x00002ce6      0x493 ..\obj\init_ws.o
+                                0xfe3 (size before relaxing)
+ .debug_str     0x00003179       0xd5 ..\obj\startup_stm32f10x_md.o
+                                0x16c (size before relaxing)
+ .debug_str     0x0000324e      0x16c ..\obj\task.o
+                                0x515 (size before relaxing)
+ .debug_str     0x000033ba      0x228 ..\obj\inputsTask.o
+                                0x890 (size before relaxing)
+ .debug_str     0x000035e2       0x6b ..\obj\usb_init.o
+                                0x5da (size before relaxing)
+ .debug_str     0x0000364d      0x23f ..\obj\main.o
+                                0xc0e (size before relaxing)
+ .debug_str     0x0000388c       0xff ..\obj\stm32f10x_crc.o
+                                0x298 (size before relaxing)
+ .debug_str     0x0000398b      0x40e ..\obj\debugTask.o
+                               0x1422 (size before relaxing)
+ .debug_str     0x00003d99      0x18b ..\obj\I2C_c.o
+                                0xb61 (size before relaxing)
+ .debug_str     0x00003f24      0x3f4 ..\obj\stm32f10x_rcc.o
+                                0x645 (size before relaxing)
+ .debug_str     0x00004318       0x6d ..\obj\ff_addons.o
+                                0x43f (size before relaxing)
+ .debug_str     0x00004385      0x11e ..\obj\outputTask.o
+                                0xf64 (size before relaxing)
+ .debug_str     0x000044a3       0xcb ..\obj\timings.o
+                                0x66f (size before relaxing)
+ .debug_str     0x0000456e      0x21c ..\obj\USB_c.o
+                                0xc24 (size before relaxing)
+ .debug_str     0x0000478a       0xd6 ..\obj\port.o
+                                0x483 (size before relaxing)
+ .debug_str     0x00004860      0x2ae ..\obj\ff.o
+                                0xa5c (size before relaxing)
+ .debug_str     0x00004b0e       0xd2 ..\obj\file_functions.o
+                                0x8ad (size before relaxing)
+ .debug_str     0x00004be0      0x38f ..\obj\stm32f10x_spi.o
+                                0x628 (size before relaxing)
+ .debug_str     0x00004f6f       0x4e ..\obj\buttons.o
+                                0x62e (size before relaxing)
+ .debug_str     0x00004fbd      0x203 ..\obj\sd_spi_stm32.o
+                                0x7b6 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ..\obj\dbgu.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ..\obj\stm32f10x_tim.o
+ .comment       0x0000006e       0x6f ..\obj\core.o
+ .comment       0x0000006e       0x6f ..\obj\descript_S.o
+ .comment       0x0000006e       0x6f ..\obj\usb_int.o
+ .comment       0x0000006e       0x6f ..\obj\system_stm32f10x.o
+ .comment       0x0000006e       0x6f ..\obj\exceptions.o
+ .comment       0x0000006e       0x6f ..\obj\init_ws.o
+ .comment       0x0000006e       0x6f ..\obj\startup_stm32f10x_md.o
+ .comment       0x0000006e       0x6f ..\obj\task.o
+ .comment       0x0000006e       0x6f ..\obj\inputsTask.o
+ .comment       0x0000006e       0x6f ..\obj\usb_init.o
+ .comment       0x0000006e       0x6f ..\obj\main.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f10x_crc.o
+ .comment       0x0000006e       0x6f ..\obj\debugTask.o
+ .comment       0x0000006e       0x6f ..\obj\I2C_c.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f10x_rcc.o
+ .comment       0x0000006e       0x6f ..\obj\ff_addons.o
+ .comment       0x0000006e       0x6f ..\obj\outputTask.o
+ .comment       0x0000006e       0x6f ..\obj\timings.o
+ .comment       0x0000006e       0x6f ..\obj\USB_c.o
+ .comment       0x0000006e       0x6f ..\obj\port.o
+ .comment       0x0000006e       0x6f ..\obj\ff.o
+ .comment       0x0000006e       0x6f ..\obj\file_functions.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f10x_spi.o
+ .comment       0x0000006e       0x6f ..\obj\buttons.o
+ .comment       0x0000006e       0x6f ..\obj\sd_spi_stm32.o
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\dbgu.o
+ .ARM.attributes
+                0x00000033       0x33 ..\obj\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000066       0x33 ..\obj\core.o
+ .ARM.attributes
+                0x00000099       0x33 ..\obj\descript_S.o
+ .ARM.attributes
+                0x000000cc       0x33 ..\obj\usb_int.o
+ .ARM.attributes
+                0x000000ff       0x33 ..\obj\system_stm32f10x.o
+ .ARM.attributes
+                0x00000132       0x33 ..\obj\exceptions.o
+ .ARM.attributes
+                0x00000165       0x33 ..\obj\init_ws.o
+ .ARM.attributes
+                0x00000198       0x33 ..\obj\startup_stm32f10x_md.o
+ .ARM.attributes
+                0x000001cb       0x33 ..\obj\task.o
+ .ARM.attributes
+                0x000001fe       0x33 ..\obj\inputsTask.o
+ .ARM.attributes
+                0x00000231       0x33 ..\obj\usb_init.o
+ .ARM.attributes
+                0x00000264       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x00000297       0x33 ..\obj\stm32f10x_crc.o
+ .ARM.attributes
+                0x000002ca       0x33 ..\obj\debugTask.o
+ .ARM.attributes
+                0x000002fd       0x33 ..\obj\I2C_c.o
+ .ARM.attributes
+                0x00000330       0x33 ..\obj\stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000363       0x33 ..\obj\ff_addons.o
+ .ARM.attributes
+                0x00000396       0x33 ..\obj\outputTask.o
+ .ARM.attributes
+                0x000003c9       0x33 ..\obj\timings.o
+ .ARM.attributes
+                0x000003fc       0x33 ..\obj\USB_c.o
+ .ARM.attributes
+                0x0000042f       0x33 ..\obj\port.o
+ .ARM.attributes
+                0x00000462       0x33 ..\obj\ff.o
+ .ARM.attributes
+                0x00000495       0x33 ..\obj\file_functions.o
+ .ARM.attributes
+                0x000004c8       0x33 ..\obj\stm32f10x_spi.o
+ .ARM.attributes
+                0x000004fb       0x33 ..\obj\buttons.o
+ .ARM.attributes
+                0x0000052e       0x33 ..\obj\sd_spi_stm32.o
+ .ARM.attributes
+                0x00000561       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000058e       0x1b c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000005a9       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+ .ARM.attributes
+                0x000005d6       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x00000603       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000630       0x2d c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+
+.debug_frame    0x00000000     0x36d0
+ .debug_frame   0x00000000      0x170 ..\obj\dbgu.o
+ .debug_frame   0x00000170      0xe2c ..\obj\stm32f10x_tim.o
+ .debug_frame   0x00000f9c       0xf8 ..\obj\core.o
+ .debug_frame   0x00001094      0x208 ..\obj\descript_S.o
+ .debug_frame   0x0000129c       0x5c ..\obj\usb_int.o
+ .debug_frame   0x000012f8       0x98 ..\obj\system_stm32f10x.o
+ .debug_frame   0x00001390       0x5c ..\obj\exceptions.o
+ .debug_frame   0x000013ec      0x2b0 ..\obj\init_ws.o
+ .debug_frame   0x0000169c       0x4c ..\obj\startup_stm32f10x_md.o
+ .debug_frame   0x000016e8      0x1c8 ..\obj\task.o
+ .debug_frame   0x000018b0       0xc4 ..\obj\inputsTask.o
+ .debug_frame   0x00001974       0x2c ..\obj\usb_init.o
+ .debug_frame   0x000019a0       0x34 ..\obj\main.o
+ .debug_frame   0x000019d4      0x134 ..\obj\stm32f10x_crc.o
+ .debug_frame   0x00001b08      0x208 ..\obj\debugTask.o
+ .debug_frame   0x00001d10      0x148 ..\obj\I2C_c.o
+ .debug_frame   0x00001e58      0x4f4 ..\obj\stm32f10x_rcc.o
+ .debug_frame   0x0000234c       0x54 ..\obj\ff_addons.o
+ .debug_frame   0x000023a0      0x140 ..\obj\outputTask.o
+ .debug_frame   0x000024e0       0xf8 ..\obj\timings.o
+ .debug_frame   0x000025d8      0x16c ..\obj\USB_c.o
+ .debug_frame   0x00002744       0xd0 ..\obj\port.o
+ .debug_frame   0x00002814      0x680 ..\obj\ff.o
+ .debug_frame   0x00002e94       0xcc ..\obj\file_functions.o
+ .debug_frame   0x00002f60      0x3a0 ..\obj\stm32f10x_spi.o
+ .debug_frame   0x00003300       0x30 ..\obj\buttons.o
+ .debug_frame   0x00003330      0x2fc ..\obj\sd_spi_stm32.o
+ .debug_frame   0x0000362c       0x3c c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-rand.o)
+ .debug_frame   0x00003668       0x28 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcat.o)
+ .debug_frame   0x00003690       0x20 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strcpy.o)
+ .debug_frame   0x000036b0       0x20 c:/program files (x86)/gnu tools arm embedded/6.2 2016q4/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
